@@ -1,0 +1,21 @@
+
+body{
+	background: #cecece;
+}
+
+tr, td{
+	padding: 5px;
+}
+
+p{
+	padding-left: 5px;
+	color: #111;
+}
+
+h1, h2 {
+	color: #005;
+}
+
+h2, h3, h4 {
+	color: #111;
+}

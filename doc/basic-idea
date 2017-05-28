@@ -1,0 +1,18 @@
+for each word found, 
+	if doesnt exist in db, create a row for it and set count to 1,
+	otherwise add 1 to the count of that word.
+	go through all the other words in the given post and update the link table
+		if the link doesnt exist in db, create row for it and set count to 1
+		otherwise add 1 to the link
+		
+		
+word
+	id
+	word
+	count
+	
+link
+	id
+	word1
+	word2
+	count
