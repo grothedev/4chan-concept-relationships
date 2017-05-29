@@ -1,0 +1,1014 @@
+board/pagenumber.json
+
+
+some of the replies for each thread are included. this example is for page 1
+
+
+{
+  "threads": [
+    {
+      "posts": [
+        {
+          "no": 51971506,
+          "sticky": 1,
+          "closed": 1,
+          "now": "12\/20\/15(Sun)20:03:52",
+          "name": "Anonymous",
+          "com": "The \/g\/ Wiki:<br><a href=\"http:\/\/wiki.installgentoo.com\/\">http:\/\/wiki.installgentoo.com\/<\/a><br><br>\r\n\r\n\/g\/ is for the discussion of technology and related topics.<br>\r\n\/g\/ is <b><u>NOT<\/u><\/b> your personal tech support team or personal consumer review site.<br><br>\r\nFor tech support\/issues with computers, use <a href=\"https:\/\/boards.4chan.org\/wsr\/\">\/wsr\/ - Worksafe Requests<\/a> or one of the following:<br>\r\n<a href=\"https:\/\/startpage.com\/\">https:\/\/startpage.com\/<\/a> or <a href=\"https:\/\/duckduckgo.com\">https:\/\/duckduckgo.com<\/a> (i.e., fucking google it)<br>\r\n<a href=\"https:\/\/stackexchange.com\/\">https:\/\/stackexchange.com\/<\/a><br>\r\n<a href=\"http:\/\/www.logicalincrements.com\/\">http:\/\/www.logicalincrements.com\/<\/a><br><br>\r\n\r\nYou can also search the catalog for a specific term by using:<br>\r\n<a href=\"https:\/\/boards.4chan.org\/g\/searchword\"><a href=\"https:\/\/boards.4chan.org\/g\/searchword\" target=\"_blank\">https:\/\/boards.4chan.org\/g\/searchwo<wbr>rd<\/a><\/a> or by clicking on [Search]<br><br> \r\n\r\nAlways check the catalog before creating a thread:<br><a href=\"https:\/\/boards.4chan.org\/g\/catalog\"><a href=\"\/g\/catalog\" class=\"quotelink\">&gt;&gt;&gt;\/g\/catalog<\/a><\/a><br><br>\r\n\r\nPlease check the rules before you post:<br><a href=\"https:\/\/www.4chan.org\/rules\"><\/a><br>\r\n<i>Begging for cryptocurrency is against the rules!<\/i><br><br>\r\n\r\nTo use the Code tag, book-end your body of code with: [code] and [\/code]",
+          "filename": "RMS",
+          "ext": ".png",
+          "w": 450,
+          "h": 399,
+          "tn_w": 250,
+          "tn_h": 221,
+          "tim": 1450659832892,
+          "time": 1450659832,
+          "md5": "cEeDnXfLWSsu3+A\/HIZkuw==",
+          "fsize": 299699,
+          "resto": 0,
+          "capcode": "mod",
+          "semantic_url": "the-g-wiki",
+          "replies": 0,
+          "images": 0
+        }
+      ]
+    },
+    {
+      "posts": [
+        {
+          "no": 60630694,
+          "now": "05\/28\/17(Sun)15:48:04",
+          "name": "Anonymous",
+          "com": "Any tips for making Windows 10 comfier?",
+          "filename": "Windows_10_(version_1703)",
+          "ext": ".png",
+          "w": 1000,
+          "h": 562,
+          "tn_w": 250,
+          "tn_h": 140,
+          "tim": 1496000884442,
+          "time": 1496000884,
+          "md5": "kTcTvemMU7+QgDMbJnaQCw==",
+          "fsize": 176168,
+          "resto": 0,
+          "bumplimit": 0,
+          "imagelimit": 0,
+          "semantic_url": "any-tips-for-making-windows-10-comfier",
+          "replies": 0,
+          "images": 0
+        }
+      ]
+    },
+    {
+      "posts": [
+        {
+          "no": 60624380,
+          "now": "05\/28\/17(Sun)08:11:29",
+          "name": "Anonymous",
+          "sub": "\/spg\/ - Smartphone General",
+          "com": "If requesting purchasing advice, please provide your country and what carrier you will be using it with, along with wanted features, budget and size.<br><br>Good resources:<br><span class=\"quote\">&gt;reviews, specs, comparisons<\/span><br>http:\/\/www.gsmarena.com<br>http:\/\/www.phonearena.com<br>http:\/\/www.kimovil.com<br><br><span class=\"quote\">&gt;Frequency checker<\/span><br>http:\/\/willmyphonework.net<br>http:\/\/frequencycheck.com<br><br><span class=\"quote\">&gt;Chinkphone news<\/span><br>http:\/\/www.gizchina.com<br>http:\/\/www.gizmochina.com<br><br><span class=\"quote\">&gt;Recommended Chinkphones $80-$300 as of a long time ago<\/span><br>https:\/\/wiki.installgentoo.com\/inde<wbr>x.php\/Chink_shit_general\/Phones<br><br><span class=\"quote\">&gt;Post a mini-review of your phone<\/span><br><span class=\"quote\">&gt;Discuss upcoming and current models<\/span><br><span class=\"quote\">&gt;Ask for help related to phones<\/span><br><span class=\"quote\">&gt;Tell us how much shekels you spent on good\/bad phone<\/span><br><span class=\"quote\">&gt;PRAISE THE CHINKPHONES unless you live in America you shits<\/span><br><br><span class=\"quote\">&gt;News:<\/span><br>Huawei nova 2 and nova 2 plus unveiled: dual main camera, 20MP selfie camera<br>http:\/\/www.gsmarena.com\/huawei_nova<wbr>_2_and_nova_2_plus_unveiled_dual_ma<wbr>in_camera_20mp_selfie_camera-news-2<wbr>5255.php<br><br>Honor 9 visits TENAA, reveals minor improvements from its predecessor<br>http:\/\/www.gsmarena.com\/honor_9_vis<wbr>its_tenaa_reveals_minor_improvement<wbr>s_from_its_predecessor-news-25267.p<wbr>hp<br><br>Nokia 9 with a whopping 8GB of RAM spotted on Geekbench<br>http:\/\/www.gsmarena.com\/nokia_9_wit<wbr>h_a_whopping_8gb_of_ram_spotted_on_<wbr>geekbench-news-25254.php<br><br>Deal: Grab an LG G6 for $288 in US<br>http:\/\/www.gsmarena.com\/lg_g6_on_ve<wbr>rizon_effectively_going_for_288-new<wbr>s-25252.php<br><br>Motorola Moto Z currently going for \u00a3299 in UK<br>http:\/\/www.gsmarena.com\/motorola_mo<wbr>to_z_currently_going_for_299_in_uk-<wbr>news-25247.php<br><br>HTC U11 review: an actual rival to the Galaxy S8 - Hardware reviews<br>https:\/\/www.androidpit.com\/htc-u11-<wbr>review<br><br>Xiaomi Mi6C appears on GFXBench with Snapdragon 660 SoC<br>http:\/\/www.gizchina.com\/2017\/05\/28\/<wbr>xiaomi-mi6c-appears-gfxbench-snapdr<wbr>agon-660-soc\/<br><br>old <a href=\"\/g\/thread\/60599518#p60599518\" class=\"quotelink\">&gt;&gt;60599518<\/a>",
+          "filename": "1&gt;4&gt;2&gt;3&gt;5",
+          "ext": ".jpg",
+          "w": 1300,
+          "h": 863,
+          "tn_w": 250,
+          "tn_h": 165,
+          "tim": 1495973489806,
+          "time": 1495973489,
+          "md5": "GC43Xduiz+D8CrR8FIU1Hw==",
+          "fsize": 187650,
+          "resto": 0,
+          "bumplimit": 0,
+          "imagelimit": 0,
+          "semantic_url": "spg-smartphone-general",
+          "replies": 66,
+          "images": 7,
+          "omitted_posts": 61,
+          "omitted_images": 7
+        },
+        {
+          "no": 60629706,
+          "now": "05\/28\/17(Sun)14:50:45",
+          "name": "Anonymous",
+          "com": "Whats the current state of the Axon 7 on Verizon?",
+          "time": 1495997445,
+          "resto": 60624380
+        },
+        {
+          "no": 60629853,
+          "now": "05\/28\/17(Sun)14:59:49",
+          "name": "Anonymous",
+          "com": "Is the moto Z much of an upgrade from the lg g4?",
+          "time": 1495997989,
+          "resto": 60624380
+        },
+        {
+          "no": 60630604,
+          "now": "05\/28\/17(Sun)15:42:41",
+          "name": "Anonymous",
+          "com": "<a href=\"#p60629706\" class=\"quotelink\">&gt;&gt;60629706<\/a><br><a href=\"#p60629853\" class=\"quotelink\">&gt;&gt;60629853<\/a><br>No to both.",
+          "time": 1496000561,
+          "resto": 60624380
+        },
+        {
+          "no": 60630661,
+          "now": "05\/28\/17(Sun)15:46:25",
+          "name": "Anonymous",
+          "com": "<a href=\"#p60630604\" class=\"quotelink\">&gt;&gt;60630604<\/a><br>Care to elaborate? on either, I am curious.",
+          "time": 1496000785,
+          "resto": 60624380
+        },
+        {
+          "no": 60630693,
+          "now": "05\/28\/17(Sun)15:47:55",
+          "name": "Anonymous",
+          "com": "What would be some good options for someone wanting to use a smartphone mostly as a camera?",
+          "time": 1496000875,
+          "resto": 60624380
+        }
+      ]
+    },
+    {
+      "posts": [
+        {
+          "no": 60630692,
+          "now": "05\/28\/17(Sun)15:47:54",
+          "name": "Anonymous",
+          "com": "Have you been improving your programming skills?",
+          "filename": "lain",
+          "ext": ".png",
+          "w": 500,
+          "h": 353,
+          "tn_w": 250,
+          "tn_h": 176,
+          "tim": 1496000874425,
+          "time": 1496000874,
+          "md5": "Nj9ZGu+wXHxyvsQ0GAaa6g==",
+          "fsize": 122350,
+          "resto": 0,
+          "bumplimit": 0,
+          "imagelimit": 0,
+          "semantic_url": "have-you-been-improving-your-programming-skills",
+          "replies": 0,
+          "images": 0
+        }
+      ]
+    },
+    {
+      "posts": [
+        {
+          "no": 60626834,
+          "now": "05\/28\/17(Sun)11:40:50",
+          "name": "RegularOP",
+          "sub": "\/csg\/ Chink Shit General",
+          "com": "In \/csg\/, we discuss the cheap shit you see on Gearbest, Taobao, AliExpress, Banggood, eBay and similar sites.<br><br><span class=\"quote\">&gt;IRC channel<\/span><br>https:\/\/qchat.rizon.net\/?channels=\/<wbr>csg\/<br>#\/csg\/ on rizon<br><br><span class=\"quote\">&gt;Discord link<\/span><br>https:\/\/discord.gg\/JttUHDZ<br><br><span class=\"quote\">&gt;Chink Shit Randomiser<\/span><br>http:\/\/chinkshit.xyz\/random\/<br><br><span class=\"quote\">&gt;Chink Shit Wiki<\/span><br>https:\/\/wiki.installgentoo.com\/inde<wbr>x.php\/Chink_shit_general<br><br><span class=\"quote\">&gt;Chink Shit Infographic <\/span><br>http:\/\/chinkshit.xyz\/infographic.pd<wbr>f<br><br><span class=\"quote\">&gt;Old News<\/span><br>\u2022 Anon gets a phone stand and a voxlink cable <a href=\"\/g\/thread\/60597708#p60598064\" class=\"quotelink\">&gt;&gt;60598064<\/a> <a href=\"\/g\/thread\/60597708#p60598137\" class=\"quotelink\">&gt;&gt;60598137<\/a> <br>\u2022 Older Kingdian S280 is still going strong <a href=\"\/g\/thread\/60597708#p60599888\" class=\"quotelink\">&gt;&gt;60599888<\/a> <br>\u2022 MIXZA has new Chicken Micro SD&#039;s <a href=\"\/g\/thread\/60597708#p60600363\" class=\"quotelink\">&gt;&gt;60600363<\/a> <br>\u2022 Anon receives something he didn&#039;t order <a href=\"\/g\/thread\/60597708#p60600576\" class=\"quotelink\">&gt;&gt;60600576<\/a> <br>\u2022 Anon shares some Zuk Z2 shots <a href=\"\/g\/thread\/60597708#p60602948\" class=\"quotelink\">&gt;&gt;60602948<\/a> <a href=\"\/g\/thread\/60597708#p60602961\" class=\"quotelink\">&gt;&gt;60602961<\/a> <a href=\"\/g\/thread\/60597708#p60602972\" class=\"quotelink\">&gt;&gt;60602972<\/a> <a href=\"\/g\/thread\/60597708#p60603115\" class=\"quotelink\">&gt;&gt;60603115<\/a> <br>\u2022 Anon gets new keycaps for his mech keyboard <a href=\"\/g\/thread\/60597708#p60603712\" class=\"quotelink\">&gt;&gt;60603712<\/a> <a href=\"\/g\/thread\/60597708#p60603720\" class=\"quotelink\">&gt;&gt;60603720<\/a> <br>\u2022 Seller cancels anon&#039;s order of lube <a href=\"\/g\/thread\/60597708#p60604024\" class=\"quotelink\">&gt;&gt;60604024<\/a> <br>\u2022 Anon does a short review of the Renault K10 <a href=\"\/g\/thread\/60597708#p60605290\" class=\"quotelink\">&gt;&gt;60605290<\/a> <br>\u2022 Anon shows off his rainbow coloured weed seeds <a href=\"\/g\/thread\/60597708#p60612258\" class=\"quotelink\">&gt;&gt;60612258<\/a> and some cables <a href=\"\/g\/thread\/60597708#p60612285\" class=\"quotelink\">&gt;&gt;60612285<\/a><br><br><span class=\"quote\">&gt;News<\/span><br>\u2022 Anon got his chink headlight, it&#039;s pretty bright <a href=\"\/g\/thread\/60612785#p60612950\" class=\"quotelink\">&gt;&gt;60612950<\/a> <a href=\"\/g\/thread\/60612785#p60612994\" class=\"quotelink\">&gt;&gt;60612994<\/a><br>\u2022 Anon has the same headlight but on his the battery contacts aren&#039;t right <a href=\"\/g\/thread\/60612785#p60613243\" class=\"quotelink\">&gt;&gt;60613243<\/a> <a href=\"\/g\/thread\/60612785#p60613314\" class=\"quotelink\">&gt;&gt;60613314<\/a><br>\u2022 Anon got his stuff for today <a href=\"\/g\/thread\/60612785#p60613566\" class=\"quotelink\">&gt;&gt;60613566<\/a> a silk poster of the movie Interstellar <a href=\"\/g\/thread\/60612785#p60613608\" class=\"quotelink\">&gt;&gt;60613608<\/a> some USB Led strips <a href=\"\/g\/thread\/60612785#p60613642\" class=\"quotelink\">&gt;&gt;60613642<\/a><br>\u2022 LED phone cases are a thing now and ROCK is selling them <a href=\"\/g\/thread\/60612785#p60614131\" class=\"quotelink\">&gt;&gt;60614131<\/a><br>\u2022 Anon gets some SATA to mSATA adapters <a href=\"\/g\/thread\/60612785#p60614750\" class=\"quotelink\">&gt;&gt;60614750<\/a><br>\u2022 Anon imports a flip phone from China <a href=\"\/g\/thread\/60612785#p60614887\" class=\"quotelink\">&gt;&gt;60614887<\/a> <a href=\"\/g\/thread\/60612785#p60614912\" class=\"quotelink\">&gt;&gt;60614912<\/a> <a href=\"\/g\/thread\/60612785#p60614991\" class=\"quotelink\">&gt;&gt;60614991<\/a> <a href=\"\/g\/thread\/60612785#p60615174\" class=\"quotelink\">&gt;&gt;60615174<\/a><br>\u2022 Anon reviews a bunch of Gearbest orders he got <a href=\"\/g\/thread\/60612785#p60619018\" class=\"quotelink\">&gt;&gt;60619018<\/a> <a href=\"\/g\/thread\/60612785#p60619085\" class=\"quotelink\">&gt;&gt;60619085<\/a><br>\u2022 Xiaomi Mi6c shows up on gfxbench <a href=\"\/g\/thread\/60612785#p60621699\" class=\"quotelink\">&gt;&gt;60621699<\/a><br>\u2022 Anon receives Asian teas from Yunnan Sourcing <a href=\"\/g\/thread\/60612785#p60623765\" class=\"quotelink\">&gt;&gt;60623765<\/a> <a href=\"\/g\/thread\/60612785#p60623774\" class=\"quotelink\">&gt;&gt;60623774<\/a> <a href=\"\/g\/thread\/60612785#p60623782\" class=\"quotelink\">&gt;&gt;60623782<\/a><br>\u2022 Anon gets a RayBan replica <a href=\"\/g\/thread\/60612785#p60624061\" class=\"quotelink\">&gt;&gt;60624061<\/a> <a href=\"\/g\/thread\/60612785#p60624065\" class=\"quotelink\">&gt;&gt;60624065<\/a> <a href=\"\/g\/thread\/60612785#p60624075\" class=\"quotelink\">&gt;&gt;60624075<\/a> <a href=\"\/g\/thread\/60612785#p60624081\" class=\"quotelink\">&gt;&gt;60624081<\/a> it&#039;s a little crooked<a href=\"\/g\/thread\/60612785#p60624088\" class=\"quotelink\">&gt;&gt;60624088<\/a> with some bending it&#039;s alright <a href=\"\/g\/thread\/60612785#p60624166\" class=\"quotelink\">&gt;&gt;60624166<\/a><br>\u2022 Anon gets refund on a cashmere sweater that started shedding everywhere <a href=\"\/g\/thread\/60612785#p60624171\" class=\"quotelink\">&gt;&gt;60624171<\/a><br><br>Previous thread <a href=\"\/g\/thread\/60612785#p60612785\" class=\"quotelink\">&gt;&gt;60612785<\/a>",
+          "filename": "csg summer",
+          "ext": ".png",
+          "w": 1290,
+          "h": 408,
+          "tn_w": 250,
+          "tn_h": 79,
+          "tim": 1495986050687,
+          "time": 1495986050,
+          "md5": "o71ZRM2hETS6M7MMkvqXDA==",
+          "fsize": 216421,
+          "resto": 0,
+          "bumplimit": 0,
+          "imagelimit": 0,
+          "semantic_url": "csg-chink-shit-general",
+          "trip": "!!p85rqLyx4kK",
+          "replies": 152,
+          "images": 29,
+          "omitted_posts": 147,
+          "omitted_images": 27,
+          "tail_size": 50
+        },
+        {
+          "no": 60630532,
+          "now": "05\/28\/17(Sun)15:38:50",
+          "name": "Anonymous",
+          "com": "<a href=\"#p60630418\" class=\"quotelink\">&gt;&gt;60630418<\/a><br>Points can be used for a maximum of a 30% discount so you have to buy 56\u20ac of stuff to use 17\u20ac worth of points",
+          "time": 1496000330,
+          "resto": 60626834
+        },
+        {
+          "no": 60630579,
+          "now": "05\/28\/17(Sun)15:41:25",
+          "name": "Anonymous",
+          "com": "<a href=\"#p60629796\" class=\"quotelink\">&gt;&gt;60629796<\/a><br><span class=\"quote\">&gt;not already getting cucked at 12\u20ac<\/span><br><span class=\"quote\">&gt;been this way for ages<\/span><br>Lmoa, what the fuck are you guys doing?",
+          "time": 1496000485,
+          "resto": 60626834
+        },
+        {
+          "no": 60630586,
+          "now": "05\/28\/17(Sun)15:41:50",
+          "name": "Anonymous",
+          "com": "Some non-programming socks csg.",
+          "filename": "boing",
+          "ext": ".jpg",
+          "w": 2459,
+          "h": 3147,
+          "tn_w": 97,
+          "tn_h": 125,
+          "tim": 1496000510557,
+          "time": 1496000510,
+          "md5": "bkN4kHUNXrrB1Oe2C\/c4CQ==",
+          "fsize": 2300746,
+          "resto": 60626834
+        },
+        {
+          "no": 60630593,
+          "now": "05\/28\/17(Sun)15:42:02",
+          "name": "Anonymous",
+          "com": "<a href=\"#p60630532\" class=\"quotelink\">&gt;&gt;60630532<\/a><br>Ah well, that sucks.",
+          "time": 1496000522,
+          "resto": 60626834
+        },
+        {
+          "no": 60630691,
+          "now": "05\/28\/17(Sun)15:47:50",
+          "name": "Anonymous",
+          "com": "<a href=\"#p60630509\" class=\"quotelink\">&gt;&gt;60630509<\/a><br>That chart is misleading because pretty much all the jew gold paid out to Greece and Spain goes straight back into German banks in the form of interest\/debt repayments.<br><br>No idea what&#039;s going on with Poland but I imagine they get a shitload of gibs from the EU to piss off Russia.",
+          "time": 1496000870,
+          "resto": 60626834
+        }
+      ]
+    },
+    {
+      "posts": [
+        {
+          "no": 60628947,
+          "now": "05\/28\/17(Sun)14:02:21",
+          "name": "Anonymous",
+          "com": "This is all you need. <br><br><br><span class=\"quote\">&gt;MacBook of your choice<\/span><br><span class=\"quote\">&gt;iPhone of your choice<\/span><br><span class=\"quote\">&gt;iPad<\/span><br><span class=\"quote\">&gt;Apple watch<\/span><br><span class=\"quote\">&gt;70&quot; 4k tv with good sound bar<\/span><br><span class=\"quote\">&gt;Apple TV or other media device to plug into TV<\/span><br><span class=\"quote\">&gt;BOSE soundsport bluetooth headphones<\/span><br><br><br>And this is the exorbitant list, you&#039;d be just fine with only a MacBook and an iPhone and the earbuds. <br><br>So why do you all spend ridiculous amounts of money on Le epic PCmasterrace Wangblows gaymen Le LEDs XD fag machines? <br><br><span class=\"quote\">&gt;Inb4 but muh gaymen!<\/span><br><span class=\"quote\">&gt;Inb4 hurr I can&#039;t afford! <\/span><br><br>Get a fucking job and a life you fat neckbeard piece of shit. Also if you can afford all that gay ass degenerate gaming bullshit then you can afford Apple products too. <br><br>Gayming is for dumb, lazy, unfit obese people who don&#039;t go outside and are too dumb to spend their time doing something like going to college, making money in their chosen career, making new contacts, hanging out with friends or working out and being a healthy human being. <br><br>You people just sit inside all day fapping to 3d images of little girls because you&#039;re sad lonely borderline pedophile neckbeard pieces of shit condensing your hatred towards &quot;Macfags&quot; because they have a life and are fit, whereas you&#039;re all fat, useless, ugly nerds.<br><br>So what&#039;s your excuse, NEETs?",
+          "filename": "macbook-pro-oled-display",
+          "ext": ".jpg",
+          "w": 1024,
+          "h": 576,
+          "tn_w": 250,
+          "tn_h": 140,
+          "tim": 1495994541419,
+          "time": 1495994541,
+          "md5": "rCK\/G0dBS\/4w00wnnfymaA==",
+          "fsize": 131463,
+          "resto": 0,
+          "bumplimit": 0,
+          "imagelimit": 0,
+          "semantic_url": "this-is-all-you-need",
+          "replies": 39,
+          "images": 6,
+          "omitted_posts": 34,
+          "omitted_images": 6
+        },
+        {
+          "no": 60630642,
+          "now": "05\/28\/17(Sun)15:45:28",
+          "name": "Anonymous",
+          "com": "<a href=\"#p60628947\" class=\"quotelink\">&gt;&gt;60628947<\/a><br><span class=\"quote\">&gt;taking the time to write such tryhard shit tier bait<\/span><br>lmao&#039;ing @ (You)&#039;re life rite nao desu",
+          "filename": "Screen-Shot-2015-04-06-at-3.39.59-PM",
+          "ext": ".png",
+          "w": 338,
+          "h": 336,
+          "tn_w": 125,
+          "tn_h": 124,
+          "tim": 1496000728010,
+          "time": 1496000728,
+          "md5": "SPNhK9CU5VStXHwYMw0SJw==",
+          "fsize": 82284,
+          "resto": 60628947
+        },
+        {
+          "no": 60630651,
+          "now": "05\/28\/17(Sun)15:45:59",
+          "name": "Sage",
+          "com": "<a href=\"#p60629256\" class=\"quotelink\">&gt;&gt;60629256<\/a><br><span class=\"quote\">&gt;Tech should be a tool not a time sink<\/span><br><span class=\"quote\">&gt;Working months to be able to afford premium shit<\/span>",
+          "filename": "1441532679173",
+          "ext": ".jpg",
+          "w": 578,
+          "h": 712,
+          "tn_w": 101,
+          "tn_h": 125,
+          "tim": 1496000759380,
+          "time": 1496000759,
+          "md5": "vRuePBMU00C\/IaytP2RG6A==",
+          "fsize": 116063,
+          "resto": 60628947
+        },
+        {
+          "no": 60630653,
+          "now": "05\/28\/17(Sun)15:46:04",
+          "name": "Anonymous",
+          "com": "<a href=\"#p60629596\" class=\"quotelink\">&gt;&gt;60629596<\/a><br>lol they grew pupils",
+          "time": 1496000764,
+          "resto": 60628947
+        },
+        {
+          "no": 60630686,
+          "now": "05\/28\/17(Sun)15:47:42",
+          "name": "Anonymous",
+          "com": "<a href=\"#p60630477\" class=\"quotelink\">&gt;&gt;60630477<\/a><br><span class=\"quote\">&gt;seemed to me like people who buy mac products live a simple and elegant life<\/span><br><br>Society of the spectacle claims another victim",
+          "filename": "guy-at-table",
+          "ext": ".jpg",
+          "w": 728,
+          "h": 888,
+          "tn_w": 102,
+          "tn_h": 125,
+          "tim": 1496000862595,
+          "time": 1496000862,
+          "md5": "ag5S\/DOpxYEZ5ODhq3ktow==",
+          "fsize": 410915,
+          "resto": 60628947
+        },
+        {
+          "no": 60630690,
+          "now": "05\/28\/17(Sun)15:47:46",
+          "name": "Anonymous",
+          "com": "<span class=\"quote\">&gt;Dell XPS15, Thinkpad &amp; Surface Pro 4<\/span><br><span class=\"quote\">&gt;Huawei P10 Plus &amp; iPhone SE (Company phone)<\/span><br><span class=\"quote\">&gt;Nvidia Tablet that doesn&#039;t work<\/span><br><span class=\"quote\">&gt;65&quot; LG 4K TV<\/span><br><span class=\"quote\">&gt;Chromecast &amp; Xbone<\/span><br><span class=\"quote\">&gt;Also have Amazon Echo &amp; dots<\/span><br><br>Am I winning botnet bingo?",
+          "time": 1496000866,
+          "resto": 60628947
+        }
+      ]
+    },
+    {
+      "posts": [
+        {
+          "no": 60630656,
+          "now": "05\/28\/17(Sun)15:46:08",
+          "name": "Anonymous",
+          "sub": "AMA",
+          "com": "Ask a guy unironically purchasing a Surface Laptop anything.",
+          "filename": "IMG_7940",
+          "ext": ".jpg",
+          "w": 780,
+          "h": 390,
+          "tn_w": 250,
+          "tn_h": 125,
+          "tim": 1496000768021,
+          "time": 1496000768,
+          "md5": "IlG\/C9r3yOI80s\/0A3cvSw==",
+          "fsize": 23081,
+          "resto": 0,
+          "bumplimit": 0,
+          "imagelimit": 0,
+          "semantic_url": "ama",
+          "replies": 2,
+          "images": 0
+        },
+        {
+          "no": 60630673,
+          "now": "05\/28\/17(Sun)15:47:16",
+          "name": "Anonymous",
+          "com": "Why not just get a Surface Pro?",
+          "time": 1496000836,
+          "resto": 60630656
+        },
+        {
+          "no": 60630689,
+          "now": "05\/28\/17(Sun)15:47:46",
+          "name": "Anonymous",
+          "com": "when do you get it<br><br>also post the invoice",
+          "time": 1496000866,
+          "resto": 60630656
+        }
+      ]
+    },
+    {
+      "posts": [
+        {
+          "no": 60627219,
+          "now": "05\/28\/17(Sun)12:08:21",
+          "name": "Anonymous",
+          "sub": "\/nrg\/ - Nyaa Replacements General",
+          "com": "Previous <a href=\"\/g\/thread\/60621744#p60621744\" class=\"quotelink\">&gt;&gt;60621744<\/a><br>This thread is for the discussion of NyaaPantsu (nyaa.pantsu.cat), a free (FOSS) torrent indexer.<br>The aim of this project is to write a fully featured nyaa.se replacement in golang that anyone will be able to deploy locally or remotely.<br><br>FAQ<br><span class=\"quote\">&gt;https:\/\/pastebin.com\/Gq9MrJN5<\/span><br><br><span class=\"quote\">&gt;Why is Pantsu down\/error 502?<\/span><br>Most likely because the team is deploying changes. Wait for a bit and refresh the page. It should be mostly stable now.<br><br>News<br><span class=\"quote\">&gt;Added api searching<\/span><br><span class=\"quote\">&gt;Theme fix up is still ongoing but making progress<\/span><br><span class=\"quote\">&gt;Scrapers in progress<\/span><br><span class=\"quote\">&gt;Added untested reset api button<\/span><br><span class=\"quote\">&gt;Now use svgs for icons<\/span><br><span class=\"quote\">&gt;Mods have more mass edit tools<\/span><br><span class=\"quote\">&gt;Filelist tree views properly work<\/span><br><span class=\"quote\">&gt;Elastic search done but needs testing<\/span><br><br>Dev live server:<br><span class=\"quote\">&gt;https:\/\/dev.pantsu.cat<\/span><br><br>Database dumps:<br><span class=\"quote\">&gt;https:\/\/nyaa.pantsu.cat\/dbdumps<\/span><br><br>Local Client:<br><span class=\"quote\">&gt;An anon made a local client in case the online sources are down: instructions and download at<\/span><br><span class=\"quote\">&gt;https:\/\/nyanner.net<\/span><br>qBittorrent plugin for Pantsu.<br><span class=\"quote\">&gt;https:\/\/github.com\/4chenz\/pantsu-p<wbr>lugin<\/span><br><br>Development roadmap:<br><span class=\"quote\">&gt;https:\/\/trello.com\/b\/gMJBwoRq\/nyaa<wbr>-pantsu-cat-roadmap<\/span><br><br>NyaaPantsu Status:<br><span class=\"quote\">&gt;https:\/\/status.pantsu.cat<\/span><br><span class=\"quote\">&gt;Copyrighters wall of shame<\/span><br>https:\/\/transparency.pantsu.cat<br><br>Development and discussion channel:<br><span class=\"quote\">&gt;https:\/\/github.com\/NyaaPantsu\/nyaa<wbr><\/span><br><span class=\"quote\">&gt;#nyaapantsu on Rizon<\/span><br><a href=\"\/g\/catalog#s=nrg\" class=\"quotelink\">&gt;&gt;&gt;\/g\/nrg<\/a>",
+          "filename": "renge_miyauchi_shades",
+          "ext": ".png",
+          "w": 2517,
+          "h": 3256,
+          "tn_w": 193,
+          "tn_h": 250,
+          "tim": 1495987701764,
+          "time": 1495987701,
+          "md5": "BQKR87p9Exw1Yo9LAMHUHg==",
+          "fsize": 422660,
+          "resto": 0,
+          "bumplimit": 0,
+          "imagelimit": 0,
+          "semantic_url": "nrg-nyaa-replacements-general",
+          "replies": 282,
+          "images": 79,
+          "omitted_posts": 277,
+          "omitted_images": 77,
+          "tail_size": 50
+        },
+        {
+          "no": 60630659,
+          "now": "05\/28\/17(Sun)15:46:19",
+          "name": "Anonymous",
+          "com": "<a href=\"#p60630578\" class=\"quotelink\">&gt;&gt;60630578<\/a><br>I found them.<br><br>Little witch academia stickers,<br><br>Large:<br>http:\/\/dl.stickershop.line.naver.jp<wbr>\/products\/0\/0\/1\/1081469\/iphone\/stic<wbr>kers@2x.zip<br><br>Medium:<br>http:\/\/dl.stickershop.line.naver.jp<wbr>\/products\/0\/0\/1\/1081469\/android\/sti<wbr>ckers.zip",
+          "filename": "3352141@2x",
+          "ext": ".png",
+          "w": 370,
+          "h": 320,
+          "tn_w": 125,
+          "tn_h": 108,
+          "tim": 1496000779070,
+          "time": 1496000779,
+          "md5": "\/+8u0Mvu8Ki8KIK79fCgAg==",
+          "fsize": 13582,
+          "resto": 60627219
+        },
+        {
+          "no": 60630674,
+          "now": "05\/28\/17(Sun)15:47:19",
+          "name": "Anonymous",
+          "com": "<a href=\"#p60630631\" class=\"quotelink\">&gt;&gt;60630631<\/a><br>try zooming out your screen resolution is probably too small and causing the vector to overlap",
+          "time": 1496000839,
+          "resto": 60627219
+        },
+        {
+          "no": 60630675,
+          "now": "05\/28\/17(Sun)15:47:19",
+          "name": "Anonymous",
+          "com": "<a href=\"#p60630551\" class=\"quotelink\">&gt;&gt;60630551<\/a><br><span class=\"quote\">&gt;Alucard&#039;s Pizza<\/span><br><br>Devs get free pizza?",
+          "time": 1496000839,
+          "resto": 60627219
+        },
+        {
+          "no": 60630676,
+          "now": "05\/28\/17(Sun)15:47:22",
+          "name": "Anonymous",
+          "com": "<a href=\"#p60630625\" class=\"quotelink\">&gt;&gt;60630625<\/a><br>my fucking sides",
+          "filename": "1468418549625",
+          "ext": ".jpg",
+          "w": 651,
+          "h": 708,
+          "tn_w": 114,
+          "tn_h": 125,
+          "tim": 1496000842204,
+          "time": 1496000842,
+          "md5": "QFZeAuF5hCIfloIfIytm1Q==",
+          "fsize": 89152,
+          "resto": 60627219
+        },
+        {
+          "no": 60630688,
+          "now": "05\/28\/17(Sun)15:47:46",
+          "name": "Anonymous",
+          "com": "<a href=\"#p60630659\" class=\"quotelink\">&gt;&gt;60630659<\/a><br><span class=\"quote\">&gt;inb4 everyone shitposts as autistic listfag now<\/span>",
+          "time": 1496000866,
+          "resto": 60627219
+        }
+      ]
+    },
+    {
+      "posts": [
+        {
+          "no": 60628685,
+          "now": "05\/28\/17(Sun)13:47:49",
+          "name": "Anonymous",
+          "sub": "Weird chrome thing every hour",
+          "com": "I&#039;m using Google Chrome and I don&#039;t know how or why it started but about a few days ago, a quarter till every hour (around 9:45, 10:45, 11:45 etc), a little window from Google Chrome is popping up in the corner of the screen and right as it appears, it disappears. Literally the only way I know it&#039;s coming from Chrome is because when I look at the taskbar, a new thing of chrome &quot;stacks&quot; onto itself as opposed to a new thing opening up next to it.<br><br>I keep thinking it&#039;s the Google Update Task Machine thing according to my Task Scheduler, which is saying that it starts at 9:47 PM every day and repeats every hour for the duration of one day. However, it happened at 9:45 this morning and I know it&#039;s gonna happen later at 10:45. Is it just the Task Machine being fucky with the times or is there something more sinister?",
+          "filename": "technical",
+          "ext": ".jpg",
+          "w": 642,
+          "h": 345,
+          "tn_w": 250,
+          "tn_h": 134,
+          "tim": 1495993669933,
+          "time": 1495993669,
+          "md5": "WDz0DPcaSK60PAnLzm6ETA==",
+          "fsize": 39209,
+          "resto": 0,
+          "bumplimit": 0,
+          "imagelimit": 0,
+          "semantic_url": "weird-chrome-thing-every-hour",
+          "replies": 7,
+          "images": 0,
+          "omitted_posts": 2,
+          "omitted_images": 0
+        },
+        {
+          "no": 60628808,
+          "now": "05\/28\/17(Sun)13:54:57",
+          "name": "Anonymous",
+          "com": "<a href=\"#p60628699\" class=\"quotelink\">&gt;&gt;60628699<\/a><br>https:\/\/www.groovypost.com\/howto\/de<wbr>tect-prevent-botnet-malware-infecti<wbr>ons\/<br><br>I tried some of the free botnet checks here and my IP wasn&#039;t listed. That&#039;s weird but I&#039;ll still keep searching",
+          "time": 1495994097,
+          "resto": 60628685
+        },
+        {
+          "no": 60628837,
+          "now": "05\/28\/17(Sun)13:56:09",
+          "name": "Anonymous",
+          "com": "<a href=\"#p60628685\" class=\"quotelink\">&gt;&gt;60628685<\/a><br><pre class=\"prettyprint\">BOTNET<br>O    E<br>T    N<br>N    T<br>E    O<br>TENTOB<\/pre>",
+          "time": 1495994169,
+          "resto": 60628685
+        },
+        {
+          "no": 60628898,
+          "now": "05\/28\/17(Sun)13:59:41",
+          "name": "Anonymous",
+          "com": "<a href=\"#p60628837\" class=\"quotelink\">&gt;&gt;60628837<\/a><br>But there&#039;s nothing wrong with my computer other than that little popup showing up every hour. I can reach any site just fine. I&#039;ve done virus scans and they came back with nothing aswell as running my IP through those things I listed in a post above",
+          "time": 1495994381,
+          "resto": 60628685
+        },
+        {
+          "no": 60630552,
+          "now": "05\/28\/17(Sun)15:40:03",
+          "name": "Anonymous",
+          "com": "<a href=\"#p60628898\" class=\"quotelink\">&gt;&gt;60628898<\/a><br>chrome = part of the botnet buddy, i sincerely apologize",
+          "time": 1496000403,
+          "resto": 60628685
+        },
+        {
+          "no": 60630687,
+          "now": "05\/28\/17(Sun)15:47:45",
+          "name": "Anonymous",
+          "com": "<a href=\"#p60628685\" class=\"quotelink\">&gt;&gt;60628685<\/a><br>botnet trigger",
+          "time": 1496000865,
+          "resto": 60628685
+        }
+      ]
+    },
+    {
+      "posts": [
+        {
+          "no": 60628128,
+          "now": "05\/28\/17(Sun)13:13:13",
+          "name": "Anonymous",
+          "sub": "\/pcbg\/ - PC Building General",
+          "com": "\/pcbg\/: Post your component list; rate other anons&#039;; ask questions in general.<br><br><span class=\"quote\">&gt;Assemble your parts list with price comparisons &amp; compatibility filter.<\/span><br>https:\/\/pcpartpicker.com\/<br><br>THEN state the PURPOSE of your PC &amp; BUDGET. State COUNTRY if not USA.<br>List GAMES\/SOFTWARE you use often. List resolution &amp; hz if gaming.<br>Seeking build improvements? Clarify goal: lower price or improved specs?<br>ctrl+f to see if your question was answered already<br><br><span class=\"quote\">&gt;How to assemble a PC, select components &amp; more. (somewhat outdated)<\/span><br>https:\/\/wiki.installgentoo.com\/inde<wbr>x.php\/Build_a_PC<br><br>CPUs:<br><span class=\"quote\">&gt;G4560 - budget builds (&lt;$500) unless G4620\/i3-7100 is heavily discounted<\/span><br><span class=\"quote\">&gt;R5 1500x - generally all you need for 60fps with power to spare. No i5<\/span><br><span class=\"quote\">&gt;R5 1600 - best value for higher fps gaming &amp; mixed usage; 1600x if you too lazy to OC<\/span><br><span class=\"quote\">&gt;i7-7700k - bad value but good; may have heat issues even at stock clocks<\/span><br><span class=\"quote\">&gt;R7\/Xeon - compute\/Multitask\/mixed use<\/span><br><span class=\"quote\">&gt;Threadripper\/i9 soon<\/span><br><br>Graphics:<br><span class=\"quote\">&gt;G4560 iGPU is fine for desktop stuff and very light game<\/span><br><span class=\"quote\">&gt;1050Ti at ~$105. Drop settings if not Freesync\/Gsync on newer games; RX560 if discounted<\/span><br><span class=\"quote\">&gt;RX570 4GB - 1080p@60+hz, running most maxed; older games at 144+hz<\/span><br><span class=\"quote\">&gt;RX580 8GB - 1440p@60+hz, inject SMAA &amp; drop settings for some games<\/span><br><span class=\"quote\">&gt;1060 - Generally outperformed by the RX 580 and GSync costs more; consider only if AMD is not an option (ie CUDA)<\/span><br><span class=\"quote\">&gt;1070 - 1080p@144hz\/1440p@100+hz<\/span><br><span class=\"quote\">&gt;1080 - 1080p@90-144+hz maxed; 1440p at lower hz.<\/span><br><span class=\"quote\">&gt;1080Ti - 1440p@90-144+hz; 4k@60hz in SOME games, more at lower settings<\/span><br><span class=\"quote\">&gt;Freesync2 &amp; Vega soon<\/span><br><br>General:<br><span class=\"quote\">&gt;READ PRODUCT REVIEWS to see if that cheap SSD\/PSU or whatever is reliable<\/span><br><span class=\"quote\">&gt;Consider larger SSD-only for what you budget SSD+HDD combined. Add HDD later once needed<\/span><br><span class=\"quote\">&gt;NVMe aren&#039;t for faster OS boot. They&#039;re primarily for productivity as a scratch disk<\/span><br><span class=\"quote\">&gt;Stop fucking confusing any M.2 drive with NVMe. M.2 is a form factor<\/span><br><span class=\"quote\">&gt;Go mATX form factor for cheaper board+case<\/span><br><span class=\"quote\">&gt;1 SR DIMM is slower than 2 DIMMs<\/span><br><span class=\"quote\">&gt;Computex in a few days, wait for it<\/span>",
+          "filename": "IMG_8694.0",
+          "ext": ".jpg",
+          "w": 1000,
+          "h": 667,
+          "tn_w": 250,
+          "tn_h": 166,
+          "tim": 1495991593602,
+          "time": 1495991593,
+          "md5": "HVuAejLPrv1XrH54cg9jFQ==",
+          "fsize": 402423,
+          "resto": 0,
+          "bumplimit": 0,
+          "imagelimit": 0,
+          "semantic_url": "pcbg-pc-building-general",
+          "replies": 170,
+          "images": 15,
+          "omitted_posts": 165,
+          "omitted_images": 14,
+          "tail_size": 50
+        },
+        {
+          "no": 60630664,
+          "now": "05\/28\/17(Sun)15:46:33",
+          "name": "Anonymous",
+          "com": "<a href=\"#p60630557\" class=\"quotelink\">&gt;&gt;60630557<\/a><br>I don&#039;t really have the patience to wait for decent mITX AM4 mobos, that might have to wait for the next build.<br><br>thanks mate.",
+          "time": 1496000793,
+          "resto": 60628128
+        },
+        {
+          "no": 60630677,
+          "now": "05\/28\/17(Sun)15:47:27",
+          "name": "Anonymous",
+          "com": "<a href=\"#p60630619\" class=\"quotelink\">&gt;&gt;60630619<\/a><br>i expected this. it&#039;s literally impossible to recommend nvidia without being called a shill here. why would i recommend amd when they&#039;re much more expensive? the cheapest 580 8gb is \u00a3229 compared to the \u00a3199 of the 1060 6gb i linked. the small price increase of \u00a315 or whatever it was for the 1060 6gb also provides a much bigger boost to stock performance and overclocked performance compared to the 470. if the 470 was \u00a3130 then it would be a good deal, but it simply isn&#039;t at that price it is now. kindly fuck off.",
+          "time": 1496000847,
+          "resto": 60628128
+        },
+        {
+          "no": 60630680,
+          "now": "05\/28\/17(Sun)15:47:35",
+          "name": "Anonymous",
+          "com": "<span class=\"quote\">&gt;been using a Lenovo X220 exclusively since 2011<\/span><br><span class=\"quote\">&gt;screen has bright spots because it&#039;s the first run of X220 IPS panels<\/span><br><span class=\"quote\">&gt;there are dead pixels right in the middle of the screen<\/span><br><span class=\"quote\">&gt;battery doesn&#039;t last longer than an hour at full charge<\/span><br><span class=\"quote\">&gt;plastic case has chips taken out of it from college backpack life<\/span><br><span class=\"quote\">&gt;finally graduated college debt free<\/span><br><span class=\"quote\">&gt;finally full-time salary job<\/span><br><span class=\"quote\">&gt;https:\/\/pcpartpicker.com\/list\/gVXX<wbr>qk<\/span><br><br>I might replace the case with a Silverstone FT05 though.",
+          "filename": "9905791262727876282a04318ea84981d74984b6ec35b8a802d797cfd6a44a49",
+          "ext": ".jpg",
+          "w": 846,
+          "h": 900,
+          "tn_w": 117,
+          "tn_h": 125,
+          "tim": 1496000855310,
+          "time": 1496000855,
+          "md5": "MpBG4I4nKEhikfPrLAzPQw==",
+          "fsize": 97998,
+          "resto": 60628128
+        },
+        {
+          "no": 60630684,
+          "now": "05\/28\/17(Sun)15:47:38",
+          "name": "Anonymous",
+          "com": "<a href=\"#p60630545\" class=\"quotelink\">&gt;&gt;60630545<\/a><br>https:\/\/pcpartpicker.com\/list\/7yr9Y<wbr>r<br>$37 more and you get a build that massively outperform the one you sent, and both the CPU &amp; motherboard allow for overclock so you can get even more performance in the future when needed<br>Didn&#039;t put a 570 because it&#039;s constantly out of stock, but they are priced exactly the same as 470 so if you find one in stock at a very close sprice don&#039;t hesitate to get it instead",
+          "filename": "hitman",
+          "ext": ".png",
+          "w": 679,
+          "h": 844,
+          "tn_w": 100,
+          "tn_h": 125,
+          "tim": 1496000858955,
+          "time": 1496000858,
+          "md5": "01yGA9ipnbl17XS3bppN\/Q==",
+          "fsize": 37410,
+          "resto": 60628128
+        },
+        {
+          "no": 60630685,
+          "now": "05\/28\/17(Sun)15:47:41",
+          "name": "Anonymous",
+          "com": "For processing RAWs and stitching panoramas now i&#039;m using <br><span class=\"quote\">&gt;Athlon II x3 455 (4th core still locked)<\/span><br><span class=\"quote\">&gt;Sapphire 5670<\/span><br><span class=\"quote\">&gt;8gb 1333 RAM<\/span><br>Will the RX570 4GB do the next level? Budget is about 200$, limited by case too, under170-180mm long graphics card is preferred.",
+          "time": 1496000861,
+          "resto": 60628128
+        }
+      ]
+    },
+    {
+      "posts": [
+        {
+          "no": 60620428,
+          "now": "05\/28\/17(Sun)00:58:08",
+          "name": "Anonymous",
+          "sub": "\/hpg\/ - Headphone General",
+          "com": "<span class=\"quote\">&gt;Headphone purchase advice<\/span><br>http:\/\/pastebin.com\/fYZLW7Ub<br><br>Please put some effort into your requests and questions.<br><br>If you dislike a suggestion, explain why and try giving a better suggestion to whomever asked.<br><br>For sub-$50 headphones and IEMs, check out infographic in <a href=\"\/g\/catalog#s=csg\" class=\"quotelink\">&gt;&gt;&gt;\/g\/csg<\/a><br><br><span class=\"quote\">&gt;\/g\/ wiki headphone FAQ:<\/span><br>https:\/\/wiki.installgentoo.com\/inde<wbr>x.php?title=Headphones<br><br>Previous thread: <a href=\"\/g\/thread\/60615088#p60615088\" class=\"quotelink\">&gt;&gt;60615088<\/a>",
+          "filename": "SnapSnap",
+          "ext": ".jpg",
+          "w": 339,
+          "h": 343,
+          "tn_w": 247,
+          "tn_h": 249,
+          "tim": 1495947488528,
+          "time": 1495947488,
+          "md5": "fMvKp+krqSrHeU6SyUz\/mg==",
+          "fsize": 24264,
+          "resto": 0,
+          "bumplimit": 0,
+          "imagelimit": 0,
+          "semantic_url": "hpg-headphone-general",
+          "replies": 128,
+          "images": 17,
+          "omitted_posts": 123,
+          "omitted_images": 15,
+          "tail_size": 50
+        },
+        {
+          "no": 60630624,
+          "now": "05\/28\/17(Sun)15:44:06",
+          "name": "Anonymous",
+          "com": "<a href=\"#p60630239\" class=\"quotelink\">&gt;&gt;60630239<\/a><br>M40x sounds worse but has a more modern design, if you&#039;re willing to sacrifice some sound quality for a better design then get the m40x",
+          "time": 1496000646,
+          "resto": 60620428
+        },
+        {
+          "no": 60630650,
+          "now": "05\/28\/17(Sun)15:45:47",
+          "name": "Anonymous",
+          "com": "Using them for 14 years, still look great and look new, my fucking bunny chew the cord...<br><br>Looking for some new headphones butt all feel like shit and are way to expensive.",
+          "filename": "1154522",
+          "ext": ".jpg",
+          "w": 790,
+          "h": 790,
+          "tn_w": 125,
+          "tn_h": 125,
+          "tim": 1496000747589,
+          "time": 1496000747,
+          "md5": "9cIkpxPTX1qg7ingYnPjcQ==",
+          "fsize": 101399,
+          "resto": 60620428
+        },
+        {
+          "no": 60630666,
+          "now": "05\/28\/17(Sun)15:46:42",
+          "name": "Anonymous",
+          "com": "<a href=\"#p60630427\" class=\"quotelink\">&gt;&gt;60630427<\/a><br>Recent release, huge hype by Head-Fi, r\/Headphones and the like. To me they seem like just another set of bassy in-ears with ridiculously bulky housing and price there to sell them as something high end. If you really want exactly the sort of weirdness offered at these price ranges I won&#039;t blame you. Do your research well. I advise huge caution trusting reviews. Understanding what exactly do YOU want is the key here. These things don&#039;t exactly scale up in quality with price.",
+          "filename": "Noble Audio Kaiser 10 (New) - df",
+          "ext": ".png",
+          "w": 800,
+          "h": 555,
+          "tn_w": 125,
+          "tn_h": 86,
+          "tim": 1496000802456,
+          "time": 1496000802,
+          "md5": "AWrco7UvsdvsMGG\/RFal4g==",
+          "fsize": 41874,
+          "resto": 60620428
+        },
+        {
+          "no": 60630669,
+          "now": "05\/28\/17(Sun)15:46:53",
+          "name": "Anonymous",
+          "com": "<a href=\"#p60630650\" class=\"quotelink\">&gt;&gt;60630650<\/a><br>Budget? Usage? Sound signature?",
+          "time": 1496000813,
+          "resto": 60620428
+        },
+        {
+          "no": 60630682,
+          "now": "05\/28\/17(Sun)15:47:38",
+          "name": "Anonymous",
+          "com": "<a href=\"#p60630624\" class=\"quotelink\">&gt;&gt;60630624<\/a><br><br>Thanks you. What was seducing me in the m40x is the removable cable. But it seems that the mdr-7506 seems to go beyond 10 years of use, so.<br><br>thanks.",
+          "time": 1496000858,
+          "resto": 60620428
+        }
+      ]
+    },
+    {
+      "posts": [
+        {
+          "no": 60630512,
+          "now": "05\/28\/17(Sun)15:38:00",
+          "name": "Anonymous",
+          "com": "<span class=\"quote\">&gt;people calling pic related USB<\/span>",
+          "filename": "flash-drive-icon",
+          "ext": ".png",
+          "w": 300,
+          "h": 300,
+          "tn_w": 250,
+          "tn_h": 250,
+          "tim": 1496000280560,
+          "time": 1496000280,
+          "md5": "lRXAblFi23ZKZ\/TSPa5okA==",
+          "fsize": 52834,
+          "resto": 0,
+          "bumplimit": 0,
+          "imagelimit": 0,
+          "semantic_url": "people-calling-pic-related-usb",
+          "replies": 13,
+          "images": 0,
+          "omitted_posts": 8,
+          "omitted_images": 0
+        },
+        {
+          "no": 60630638,
+          "now": "05\/28\/17(Sun)15:45:07",
+          "name": "Anonymous",
+          "com": "<a href=\"#p60630512\" class=\"quotelink\">&gt;&gt;60630512<\/a><br>FUCKING FLASH DRIVE YOU NORMIE",
+          "time": 1496000707,
+          "resto": 60630512
+        },
+        {
+          "no": 60630645,
+          "now": "05\/28\/17(Sun)15:45:36",
+          "name": "Anonymous",
+          "com": "<a href=\"#p60630512\" class=\"quotelink\">&gt;&gt;60630512<\/a><br>tape",
+          "time": 1496000736,
+          "resto": 60630512
+        },
+        {
+          "no": 60630647,
+          "now": "05\/28\/17(Sun)15:45:40",
+          "name": "Anonymous",
+          "com": "<a href=\"#p60630512\" class=\"quotelink\">&gt;&gt;60630512<\/a><br><span class=\"quote\">&gt;people calling an information penis &quot;&quot;pic related&quot;&quot;<\/span>",
+          "time": 1496000740,
+          "resto": 60630512
+        },
+        {
+          "no": 60630665,
+          "now": "05\/28\/17(Sun)15:46:35",
+          "name": "CIA",
+          "com": "<a href=\"#p60630563\" class=\"quotelink\">&gt;&gt;60630563<\/a><br>This shit triggers me too, along with people saying things like &quot;my wifi is limited to 1GB a month&quot;, but I don&#039;t sperg out about it and I hold my tongue unlike you fucking losers.",
+          "time": 1496000795,
+          "resto": 60630512,
+          "trip": "!NiGGERrAYs"
+        },
+        {
+          "no": 60630683,
+          "now": "05\/28\/17(Sun)15:47:38",
+          "name": "Anonymous",
+          "com": "<a href=\"#p60630638\" class=\"quotelink\">&gt;&gt;60630638<\/a><br>i call flash disk<br>i know its not a disk but still",
+          "time": 1496000858,
+          "resto": 60630512
+        }
+      ]
+    },
+    {
+      "posts": [
+        {
+          "no": 60601699,
+          "now": "05\/26\/17(Fri)19:14:00",
+          "name": "Anonymous",
+          "sub": "\/mkg\/ Mechanical Keyboard General",
+          "com": "Topre is a fucking meme edition<br><br>I just bought a BTC 5100 off ebay for like \u00a330 and prefer it to my hhkb pro 2.",
+          "filename": "TB2Er.LexaK.eBjSZFwXXXjsFXa_!!887351202",
+          "ext": ".jpg",
+          "w": 780,
+          "h": 585,
+          "tn_w": 250,
+          "tn_h": 187,
+          "tim": 1495840440624,
+          "time": 1495840440,
+          "md5": "LBMfhRE7g6+EDjD4kqAoBA==",
+          "fsize": 102719,
+          "resto": 0,
+          "bumplimit": 0,
+          "imagelimit": 0,
+          "semantic_url": "mkg-mechanical-keyboard-general",
+          "replies": 193,
+          "images": 46,
+          "omitted_posts": 188,
+          "omitted_images": 46,
+          "tail_size": 50
+        },
+        {
+          "no": 60629899,
+          "now": "05\/28\/17(Sun)15:02:32",
+          "name": "Anonymous",
+          "com": "I&#039;m thinking of a grid layout kit like the Terminus Mini 2. Figure it will solve all my problems and make life into an amazing adventure.<br><br>Guys, am I in for many painful farts?",
+          "filename": "1483128159271",
+          "ext": ".jpg",
+          "w": 904,
+          "h": 719,
+          "tn_w": 125,
+          "tn_h": 99,
+          "tim": 1495998152537,
+          "time": 1495998152,
+          "md5": "mnT\/RwLYw7JSmrC8Lxnvjw==",
+          "fsize": 56744,
+          "resto": 60601699
+        },
+        {
+          "no": 60630544,
+          "now": "05\/28\/17(Sun)15:39:45",
+          "name": "Anonymous",
+          "com": "<a href=\"#p60601941\" class=\"quotelink\">&gt;&gt;60601941<\/a><br>STRAFE RGB Silent has been my first keyboard. I&#039;m about to go tenkeyless, but this thing feels absolutely wonderful to type on. Quick response but squishy, as you say.",
+          "time": 1496000385,
+          "resto": 60601699
+        },
+        {
+          "no": 60630568,
+          "now": "05\/28\/17(Sun)15:41:00",
+          "name": "Anonymous",
+          "com": "Thoughts on Ducky Zero? Linux compatibility? Moving away from a Corsair board that seems to overload the USB ports on most boots.",
+          "time": 1496000460,
+          "resto": 60601699
+        },
+        {
+          "no": 60630634,
+          "now": "05\/28\/17(Sun)15:44:51",
+          "name": "Anonymous",
+          "com": "<a href=\"#p60630568\" class=\"quotelink\">&gt;&gt;60630568<\/a><br>I have a Ducky One, and with mint I can use it in 6kro. Everything works fine, even the macros.",
+          "time": 1496000691,
+          "resto": 60601699
+        },
+        {
+          "no": 60630681,
+          "now": "05\/28\/17(Sun)15:47:36",
+          "name": "Anonymous",
+          "com": "<a href=\"#p60630634\" class=\"quotelink\">&gt;&gt;60630634<\/a><br>That&#039;s all the proof I needed. Thanks.",
+          "time": 1496000856,
+          "resto": 60601699
+        }
+      ]
+    },
+    {
+      "posts": [
+        {
+          "no": 60630606,
+          "now": "05\/28\/17(Sun)15:42:48",
+          "name": "Anonymous",
+          "com": "Hey \/g\/ I made an Install Gentoo tutorial :^)<br>Hope you enjoy<br>Watch till the end<br><br>https:\/\/www.youtube.com\/watch?v=WN-<wbr>eBFaE-xw",
+          "filename": "tumblr_oqbzcnujRg1snewkto1_1280",
+          "ext": ".gif",
+          "w": 782,
+          "h": 694,
+          "tn_w": 250,
+          "tn_h": 221,
+          "tim": 1496000568033,
+          "time": 1496000568,
+          "md5": "xlpqBeikKIT\/9gNnGth2\/A==",
+          "fsize": 268002,
+          "resto": 0,
+          "bumplimit": 0,
+          "imagelimit": 0,
+          "semantic_url": "hey-g-i-made-an-install-gentoo-tutorial",
+          "replies": 2,
+          "images": 2
+        },
+        {
+          "no": 60630633,
+          "now": "05\/28\/17(Sun)15:44:50",
+          "name": "Anonymous",
+          "com": "<a href=\"#p60630606\" class=\"quotelink\">&gt;&gt;60630606<\/a><br>Good thread.",
+          "filename": "1495607808136",
+          "ext": ".gif",
+          "w": 350,
+          "h": 249,
+          "tn_w": 125,
+          "tn_h": 88,
+          "tim": 1496000690799,
+          "time": 1496000690,
+          "md5": "rTSwL\/KVBoqEYPuXVk9T3w==",
+          "fsize": 1028498,
+          "resto": 60630606
+        },
+        {
+          "no": 60630679,
+          "now": "05\/28\/17(Sun)15:47:30",
+          "name": "Anonymous",
+          "com": "<a href=\"#p60630606\" class=\"quotelink\">&gt;&gt;60630606<\/a><br>But I like anime",
+          "filename": "1495857286381",
+          "ext": ".jpg",
+          "w": 1456,
+          "h": 896,
+          "tn_w": 125,
+          "tn_h": 76,
+          "tim": 1496000850009,
+          "time": 1496000850,
+          "md5": "5z8kuGhMEcLtBWeZ0k7ACA==",
+          "fsize": 100101,
+          "resto": 60630606
+        }
+      ]
+    },
+    {
+      "posts": [
+        {
+          "no": 60623425,
+          "now": "05\/28\/17(Sun)06:16:21",
+          "name": "Anonymous",
+          "com": "Vega will be out but it will already be too late and most probably won&#039;t even beat 1080ti<br><br>Next year Nvidia will release volta early and will again take up all the market share and vega 2 will again bite the dust.<br><br>Why can&#039;t AMD speed up their shit and bring better product like they did with ryzen.<br>They have made every Intel cpu other than 7700k(just gaymers) obsolete, why not do the same with gpu market",
+          "filename": "vega",
+          "ext": ".jpg",
+          "w": 568,
+          "h": 612,
+          "tn_w": 232,
+          "tn_h": 250,
+          "tim": 1495966581343,
+          "time": 1495966581,
+          "md5": "l7cr1sXRaKRhQ7vORuSJxA==",
+          "fsize": 67617,
+          "resto": 0,
+          "bumplimit": 0,
+          "imagelimit": 0,
+          "semantic_url": "vega-will-be-out-but-it-will-already-be-too-late",
+          "replies": 169,
+          "images": 44,
+          "omitted_posts": 164,
+          "omitted_images": 43,
+          "tail_size": 50
+        },
+        {
+          "no": 60629156,
+          "now": "05\/28\/17(Sun)14:16:25",
+          "name": "Anonymous",
+          "com": "Just to recap this entire thread.<br><br><span class=\"quote\">&gt;AMD sucks.<\/span><br><br><span class=\"quote\">&gt;Hardly, here is why<\/span><br><br><span class=\"quote\">&gt;These worst case scenario benchmarks disprove your arguments!<\/span><br><br><span class=\"quote\">&gt;Why would any ine run that configuration?<\/span><br><br><span class=\"quote\">&gt;This company who sells comouter parts says AMD isn&#039;t worth a <\/span><br><br><span class=\"quote\">&gt;What they are saying flies in the face of conventional knowledge<\/span><br><br><span class=\"quote\">&gt;AMD sucks so bad<\/span><br><br>You should all be launched in to fucking orbit.",
+          "time": 1495995385,
+          "resto": 60623425
+        },
+        {
+          "no": 60629167,
+          "now": "05\/28\/17(Sun)14:17:11",
+          "name": "Anonymous",
+          "com": "<a href=\"#p60626473\" class=\"quotelink\">&gt;&gt;60626473<\/a><br>:^)",
+          "filename": "1421136595643",
+          "ext": ".jpg",
+          "w": 852,
+          "h": 939,
+          "tn_w": 113,
+          "tn_h": 125,
+          "tim": 1495995431673,
+          "time": 1495995431,
+          "md5": "UjN63yMOSOX7FAOa1gv2pg==",
+          "fsize": 227331,
+          "resto": 60623425
+        },
+        {
+          "no": 60629176,
+          "now": "05\/28\/17(Sun)14:17:56",
+          "name": "Anonymous",
+          "com": "<a href=\"#p60626500\" class=\"quotelink\">&gt;&gt;60626500<\/a><br>Yeah, totally kikebro.",
+          "filename": "1488678336902",
+          "ext": ".png",
+          "w": 882,
+          "h": 1418,
+          "tn_w": 77,
+          "tn_h": 125,
+          "tim": 1495995476352,
+          "time": 1495995476,
+          "md5": "MQw0mBA1lfthBJDy2b1phg==",
+          "fsize": 417847,
+          "resto": 60623425
+        },
+        {
+          "no": 60629185,
+          "now": "05\/28\/17(Sun)14:18:35",
+          "name": "Anonymous",
+          "com": "<a href=\"#p60626550\" class=\"quotelink\">&gt;&gt;60626550<\/a><br>Yes yes, good post!",
+          "filename": "1439125308100",
+          "ext": ".jpg",
+          "w": 250,
+          "h": 250,
+          "tn_w": 125,
+          "tn_h": 125,
+          "tim": 1495995515001,
+          "time": 1495995515,
+          "md5": "hOsTysyGEocJgM\/aZFHF2Q==",
+          "fsize": 15304,
+          "resto": 60623425
+        },
+        {
+          "no": 60630678,
+          "now": "05\/28\/17(Sun)15:47:27",
+          "name": "Anonymous",
+          "com": "<a href=\"#p60626431\" class=\"quotelink\">&gt;&gt;60626431<\/a><br><span class=\"quote\">&gt;970 will perform same as 390 in newer games<\/span><br>it already does",
+          "time": 1496000847,
+          "resto": 60623425
+        }
+      ]
+    }
+  ]
+}
+

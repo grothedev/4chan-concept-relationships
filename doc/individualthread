@@ -1,0 +1,1455 @@
+board/thread/threadnumber.json
+
+
+
+{
+  "posts": [
+    {
+      "no": 60628128,
+      "now": "05\/28\/17(Sun)13:13:13",
+      "name": "Anonymous",
+      "sub": "\/pcbg\/ - PC Building General",
+      "com": "\/pcbg\/: Post your component list; rate other anons&#039;; ask questions in general.<br><br><span class=\"quote\">&gt;Assemble your parts list with price comparisons &amp; compatibility filter.<\/span><br>https:\/\/pcpartpicker.com\/<br><br>THEN state the PURPOSE of your PC &amp; BUDGET. State COUNTRY if not USA.<br>List GAMES\/SOFTWARE you use often. List resolution &amp; hz if gaming.<br>Seeking build improvements? Clarify goal: lower price or improved specs?<br>ctrl+f to see if your question was answered already<br><br><span class=\"quote\">&gt;How to assemble a PC, select components &amp; more. (somewhat outdated)<\/span><br>https:\/\/wiki.installgentoo.com\/inde<wbr>x.php\/Build_a_PC<br><br>CPUs:<br><span class=\"quote\">&gt;G4560 - budget builds (&lt;$500) unless G4620\/i3-7100 is heavily discounted<\/span><br><span class=\"quote\">&gt;R5 1500x - generally all you need for 60fps with power to spare. No i5<\/span><br><span class=\"quote\">&gt;R5 1600 - best value for higher fps gaming &amp; mixed usage; 1600x if you too lazy to OC<\/span><br><span class=\"quote\">&gt;i7-7700k - bad value but good; may have heat issues even at stock clocks<\/span><br><span class=\"quote\">&gt;R7\/Xeon - compute\/Multitask\/mixed use<\/span><br><span class=\"quote\">&gt;Threadripper\/i9 soon<\/span><br><br>Graphics:<br><span class=\"quote\">&gt;G4560 iGPU is fine for desktop stuff and very light game<\/span><br><span class=\"quote\">&gt;1050Ti at ~$105. Drop settings if not Freesync\/Gsync on newer games; RX560 if discounted<\/span><br><span class=\"quote\">&gt;RX570 4GB - 1080p@60+hz, running most maxed; older games at 144+hz<\/span><br><span class=\"quote\">&gt;RX580 8GB - 1440p@60+hz, inject SMAA &amp; drop settings for some games<\/span><br><span class=\"quote\">&gt;1060 - Generally outperformed by the RX 580 and GSync costs more; consider only if AMD is not an option (ie CUDA)<\/span><br><span class=\"quote\">&gt;1070 - 1080p@144hz\/1440p@100+hz<\/span><br><span class=\"quote\">&gt;1080 - 1080p@90-144+hz maxed; 1440p at lower hz.<\/span><br><span class=\"quote\">&gt;1080Ti - 1440p@90-144+hz; 4k@60hz in SOME games, more at lower settings<\/span><br><span class=\"quote\">&gt;Freesync2 &amp; Vega soon<\/span><br><br>General:<br><span class=\"quote\">&gt;READ PRODUCT REVIEWS to see if that cheap SSD\/PSU or whatever is reliable<\/span><br><span class=\"quote\">&gt;Consider larger SSD-only for what you budget SSD+HDD combined. Add HDD later once needed<\/span><br><span class=\"quote\">&gt;NVMe aren&#039;t for faster OS boot. They&#039;re primarily for productivity as a scratch disk<\/span><br><span class=\"quote\">&gt;Stop fucking confusing any M.2 drive with NVMe. M.2 is a form factor<\/span><br><span class=\"quote\">&gt;Go mATX form factor for cheaper board+case<\/span><br><span class=\"quote\">&gt;1 SR DIMM is slower than 2 DIMMs<\/span><br><span class=\"quote\">&gt;Computex in a few days, wait for it<\/span>",
+      "filename": "IMG_8694.0",
+      "ext": ".jpg",
+      "w": 1000,
+      "h": 667,
+      "tn_w": 250,
+      "tn_h": 166,
+      "tim": 1495991593602,
+      "time": 1495991593,
+      "md5": "HVuAejLPrv1XrH54cg9jFQ==",
+      "fsize": 402423,
+      "resto": 0,
+      "bumplimit": 0,
+      "imagelimit": 0,
+      "semantic_url": "pcbg-pc-building-general",
+      "replies": 163,
+      "images": 13,
+      "unique_ips": 43,
+      "tail_size": 50
+    },
+    {
+      "no": 60628154,
+      "now": "05\/28\/17(Sun)13:14:58",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60628128\" class=\"quotelink\">&gt;&gt;60628128<\/a><br>_",
+      "filename": "oswra4",
+      "ext": ".gif",
+      "w": 500,
+      "h": 500,
+      "tn_w": 125,
+      "tn_h": 125,
+      "tim": 1495991698274,
+      "time": 1495991698,
+      "md5": "irgR5zLQ8+iQjMQox4hQCg==",
+      "fsize": 1827073,
+      "resto": 60628128
+    },
+    {
+      "no": 60628175,
+      "now": "05\/28\/17(Sun)13:16:28",
+      "name": "Anonymous",
+      "com": "https:\/\/pcpartpicker.com\/list\/G2Q8q<wbr>k r8 or h8",
+      "time": 1495991788,
+      "resto": 60628128
+    },
+    {
+      "no": 60628192,
+      "now": "05\/28\/17(Sun)13:17:26",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60628175\" class=\"quotelink\">&gt;&gt;60628175<\/a><br><span class=\"quote\">&gt;x370<\/span><br>Do you really need the extra PCIe lanes &amp; SLI\/Xfire?<br>Looks good to me otherwise",
+      "time": 1495991846,
+      "resto": 60628128
+    },
+    {
+      "no": 60628209,
+      "now": "05\/28\/17(Sun)13:18:32",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60628175\" class=\"quotelink\">&gt;&gt;60628175<\/a><br>Unless you&#039;re doing SLI, there&#039;s no need for an X370 board.<br><span class=\"quote\">&gt;but muh overclocking.<\/span><br>B350 supports overclocking. This isn&#039;t Intel.",
+      "time": 1495991912,
+      "resto": 60628128
+    },
+    {
+      "no": 60628227,
+      "now": "05\/28\/17(Sun)13:19:40",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60628175\" class=\"quotelink\">&gt;&gt;60628175<\/a><br>hey it&#039;s my build i posted yesterday. don&#039;t know why you changed that msi b350 to an x370 though. everything else is good.",
+      "time": 1495991980,
+      "resto": 60628128
+    },
+    {
+      "no": 60628233,
+      "now": "05\/28\/17(Sun)13:20:11",
+      "name": "Anonymous",
+      "com": "Summary of last thread:<br><span class=\"quote\">&gt;AMD shills butthurt about Ryzen<\/span><br><span class=\"quote\">&gt;Intel shills butthurt about 7700k<\/span><br><span class=\"quote\">&gt;None of it matters because you can game 60fps 1080p ULTRA on a fucking 2 core CPU<\/span>",
+      "time": 1495992011,
+      "resto": 60628128
+    },
+    {
+      "no": 60628250,
+      "now": "05\/28\/17(Sun)13:21:21",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60628227\" class=\"quotelink\">&gt;&gt;60628227<\/a><br>Lol i&#039;m betting he did that to get discussion going on in the thread, what a jackass",
+      "time": 1495992081,
+      "resto": 60628128
+    },
+    {
+      "no": 60628298,
+      "now": "05\/28\/17(Sun)13:24:21",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60628250\" class=\"quotelink\">&gt;&gt;60628250<\/a><br><span class=\"quote\">&gt;spotted the butthurt Intel shill<\/span>",
+      "time": 1495992261,
+      "resto": 60628128
+    },
+    {
+      "no": 60628305,
+      "now": "05\/28\/17(Sun)13:24:43",
+      "name": "Anonymous",
+      "com": "I&#039;m looking for a small case for a micro atx build. I don&#039;t plan on using SLI\/crossfire. My budget is $40 - $80. <br><br>Any suggestions?",
+      "time": 1495992283,
+      "resto": 60628128
+    },
+    {
+      "no": 60628313,
+      "now": "05\/28\/17(Sun)13:25:11",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60628298\" class=\"quotelink\">&gt;&gt;60628298<\/a><br>I made this very thread though",
+      "time": 1495992311,
+      "resto": 60628128
+    },
+    {
+      "no": 60628339,
+      "now": "05\/28\/17(Sun)13:26:33",
+      "name": "Anonymous",
+      "com": "whats the best B350 mobo?",
+      "time": 1495992393,
+      "resto": 60628128
+    },
+    {
+      "no": 60628358,
+      "now": "05\/28\/17(Sun)13:27:35",
+      "name": "Anonymous",
+      "com": "Real thread<br><a href=\"\/g\/thread\/60624205#p60624205\" class=\"quotelink\">&gt;&gt;60624205<\/a><br><a href=\"\/g\/thread\/60624205#p60624205\" class=\"quotelink\">&gt;&gt;60624205<\/a><br><a href=\"\/g\/thread\/60624205#p60624205\" class=\"quotelink\">&gt;&gt;60624205<\/a>",
+      "time": 1495992455,
+      "resto": 60628128
+    },
+    {
+      "no": 60628363,
+      "now": "05\/28\/17(Sun)13:27:47",
+      "name": "Anonymous",
+      "com": "<a href=\"\/g\/thread\/60624231#p60628111\" class=\"quotelink\">&gt;&gt;60628111<\/a><br><span class=\"quote\">&gt;what price?<\/span><br>It&#039;s the cheapset 2.5&quot; 2tb drive.",
+      "time": 1495992467,
+      "resto": 60628128
+    },
+    {
+      "no": 60628366,
+      "now": "05\/28\/17(Sun)13:27:54",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60628305\" class=\"quotelink\">&gt;&gt;60628305<\/a><br>https:\/\/pcpartpicker.com\/product\/QM<wbr>p323\/thermaltake-case-ca1d500s1wn00<wbr><br>https:\/\/pcpartpicker.com\/product\/X4<wbr>4NnQ\/fractal-design-define-mini-c-w<wbr>ith-window-microatx-mid-tower-case-<wbr>fd-ca-def-mini-c-bk-w<br>https:\/\/pcpartpicker.com\/product\/T3<wbr>rG3C\/cooler-master-case-nse200kkn1<br>https:\/\/pcpartpicker.com\/product\/Lg<wbr>YXsY\/corsair-case-cc9011069ww",
+      "time": 1495992474,
+      "resto": 60628128
+    },
+    {
+      "no": 60628374,
+      "now": "05\/28\/17(Sun)13:28:42",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60628358\" class=\"quotelink\">&gt;&gt;60628358<\/a><br>Stop trying to force your thread on us, it&#039;s filled with shit and empty of good content \/ information.<br>Current thread is the real one and it will stay that way.",
+      "time": 1495992522,
+      "resto": 60628128
+    },
+    {
+      "no": 60628379,
+      "now": "05\/28\/17(Sun)13:28:56",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60628358\" class=\"quotelink\">&gt;&gt;60628358<\/a><br>Intel shill please leave",
+      "time": 1495992536,
+      "resto": 60628128
+    },
+    {
+      "no": 60628398,
+      "now": "05\/28\/17(Sun)13:30:12",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60628339\" class=\"quotelink\">&gt;&gt;60628339<\/a><br>Gigabyte GA-AB350 Gaming 3 has the best audio<br>Generally though, you want one with good VRM heatsinks.",
+      "time": 1495992612,
+      "resto": 60628128
+    },
+    {
+      "no": 60628493,
+      "now": "05\/28\/17(Sun)13:36:28",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60628339\" class=\"quotelink\">&gt;&gt;60628339<\/a><br>Depends on what you want.<br>Best for cheap, Asrock b350M pro4<br>best VRMs, almost any MSI board.<br>Also look out for board features and shit you&#039;re interested in, extra sata, RGB, whatever you&#039;re into.",
+      "time": 1495992988,
+      "resto": 60628128
+    },
+    {
+      "no": 60628498,
+      "now": "05\/28\/17(Sun)13:36:40",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60628366\" class=\"quotelink\">&gt;&gt;60628366<\/a><br><br>Checked and thanks anon. That looks bretty good.",
+      "filename": "1495777610395",
+      "ext": ".gif",
+      "w": 300,
+      "h": 223,
+      "tn_w": 125,
+      "tn_h": 92,
+      "tim": 1495993000630,
+      "time": 1495993000,
+      "md5": "QadLjuM2MwMYwvtSwF0EOw==",
+      "fsize": 1482420,
+      "resto": 60628128
+    },
+    {
+      "no": 60628519,
+      "now": "05\/28\/17(Sun)13:37:57",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60628398\" class=\"quotelink\">&gt;&gt;60628398<\/a><br>vrm heatsinks don&#039;t matter<br><br>I have yet to hear of a single case of someone having any problems with their vrms, it&#039;s always &quot;My vrm temperature is 100 celisus is that bad?&quot;",
+      "time": 1495993077,
+      "resto": 60628128
+    },
+    {
+      "no": 60628589,
+      "now": "05\/28\/17(Sun)13:43:04",
+      "name": "Anonymous",
+      "com": "Asking again<br><span class=\"quote\">&gt;Toshiba MQ03ABB HDD MQ03ABB200 <\/span><br>Anyone know if this is a decent HDD?<br>I could fit a  3.5&quot; HDD in my case, but it draws more watt, and should generate much more torque, and possibly be louder. So, I rather just pay the premium and get a 2.5&quot;.<br><br><a href=\"#p60628519\" class=\"quotelink\">&gt;&gt;60628519<\/a><br>You do need vrm heatsinks, they heat up when you overclock, so they very well may overheat and shut down the computer.<br>100C is fine, but at around 120-130C it&#039;s too much, and they&#039;ll either get damaged or emergency shut down. No heatsinks are fine if you don&#039;t overclock, but if you do overclock you should get heatsinks.",
+      "time": 1495993384,
+      "resto": 60628128
+    },
+    {
+      "no": 60628591,
+      "now": "05\/28\/17(Sun)13:43:06",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60628313\" class=\"quotelink\">&gt;&gt;60628313<\/a><br>https:\/\/pcpartpicker.com\/list\/d3nzd<wbr>6<br><br>Wanted to build a new PC,  go higher res and great frames, no real compromises game performance wise.  Mostly play ARMA, Battlefield, DOOM, and Overwatch. Planning on picking up newer titles as well when the summer sale drops. Only did 16 gb of ram because from my understanding theres no real improvement past that right now.",
+      "time": 1495993386,
+      "resto": 60628128
+    },
+    {
+      "no": 60628619,
+      "now": "05\/28\/17(Sun)13:44:23",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60628519\" class=\"quotelink\">&gt;&gt;60628519<\/a><br>I&#039;ll never understand why shittier VRM designs sometimes ship with no heatsinks but fucking 12 phase behemoths have heatpipes and shit.<br>It really should be the other way around.",
+      "time": 1495993463,
+      "resto": 60628128
+    },
+    {
+      "no": 60628644,
+      "now": "05\/28\/17(Sun)13:46:06",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60628591\" class=\"quotelink\">&gt;&gt;60628591<\/a><br>could save some money on CPU cooler, a $130 aio isn&#039;t gonna run much cooler than a $100 one if any. could also save some money on SSD by not going samsung. The PSU is way overkill, drop to a 600w. And such high frequency memory isn&#039;t really needed, the very very slight gains it give are not even worth $10, so drop to lower frequency ram",
+      "time": 1495993566,
+      "resto": 60628128
+    },
+    {
+      "no": 60628701,
+      "now": "05\/28\/17(Sun)13:48:43",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60628644\" class=\"quotelink\">&gt;&gt;60628644<\/a><br>Does better cooling have more of an effect on kaby lake or less because of the spreader TIM?<br>I&#039;d really like to see someone go full science mode on these things.",
+      "time": 1495993723,
+      "resto": 60628128
+    },
+    {
+      "no": 60628719,
+      "now": "05\/28\/17(Sun)13:49:46",
+      "name": "Anonymous",
+      "com": "Can somebody recommend me a good cooler for my 2600k ?  I guess mine broke.",
+      "time": 1495993786,
+      "resto": 60628128
+    },
+    {
+      "no": 60628733,
+      "now": "05\/28\/17(Sun)13:50:23",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60628701\" class=\"quotelink\">&gt;&gt;60628701<\/a><br><span class=\"quote\">&gt;Does better cooling have more of an effect on kaby lake or less because of the spreader TIM?<\/span><br>No, it&#039;s specifically because of very poor job between the CPU die &amp; heatspreader that no matter how good your cooler is, it will heat a lot.<br>The heat is getting stuck in there instead of going up to the cooler heatsink &amp; getting dissipated, so dissipating the heat better will barely have any effect.",
+      "time": 1495993823,
+      "resto": 60628128
+    },
+    {
+      "no": 60628737,
+      "now": "05\/28\/17(Sun)13:50:27",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60628719\" class=\"quotelink\">&gt;&gt;60628719<\/a><br>I have a H7 for my 7700k and it&#039;s great if you want to go air.",
+      "time": 1495993827,
+      "resto": 60628128
+    },
+    {
+      "no": 60628739,
+      "now": "05\/28\/17(Sun)13:50:35",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60628719\" class=\"quotelink\">&gt;&gt;60628719<\/a><br>Cryorig H7 is pretty popular.<br><br>I&#039;m looking to get a shadow rock 2, but it does cost a bit more.",
+      "time": 1495993835,
+      "resto": 60628128
+    },
+    {
+      "no": 60628758,
+      "now": "05\/28\/17(Sun)13:51:51",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60628719\" class=\"quotelink\">&gt;&gt;60628719<\/a><br>If you&#039;re gonna spend money on a cooler you might as well get a good one like a CRYORIG H7 or such",
+      "time": 1495993911,
+      "resto": 60628128
+    },
+    {
+      "no": 60628766,
+      "now": "05\/28\/17(Sun)13:52:29",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60628737\" class=\"quotelink\">&gt;&gt;60628737<\/a><br><a href=\"#p60628739\" class=\"quotelink\">&gt;&gt;60628739<\/a><br>Uh, that looks pretty good.<br><a href=\"#p60628758\" class=\"quotelink\">&gt;&gt;60628758<\/a><br>Am I getting memed on ?",
+      "time": 1495993949,
+      "resto": 60628128
+    },
+    {
+      "no": 60628774,
+      "now": "05\/28\/17(Sun)13:53:10",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60628766\" class=\"quotelink\">&gt;&gt;60628766<\/a><br><span class=\"quote\">&gt;Am I getting memed on ?<\/span><br>What?",
+      "time": 1495993990,
+      "resto": 60628128
+    },
+    {
+      "no": 60628799,
+      "now": "05\/28\/17(Sun)13:54:19",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60628774\" class=\"quotelink\">&gt;&gt;60628774<\/a><br>I don&#039;t know. Three people recommended the same thing. Seemed weird",
+      "time": 1495994059,
+      "resto": 60628128
+    },
+    {
+      "no": 60628805,
+      "now": "05\/28\/17(Sun)13:54:38",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60628644\" class=\"quotelink\">&gt;&gt;60628644<\/a><br>What about the efficency or keeping the heat down to keep the fans off or down with the eco mode?<br><br>My thought was that with 80+ gold, it&#039;s most efficient around 50%, so I tried to put it where the load when gaming would approximately be at the 50% mark yo maximize efficency.<br><br>For the SSD, I suppose a Crucial MX300 could fit the bill instead of the 850 Evo if it gets similar performance, or would a different recommendation be better?<br><br>I went with higher frequency ram because I read an article it&#039;d actually give a decent boost in ARMA over 2133\/2400.",
+      "time": 1495994078,
+      "resto": 60628128
+    },
+    {
+      "no": 60628820,
+      "now": "05\/28\/17(Sun)13:55:21",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60628766\" class=\"quotelink\">&gt;&gt;60628766<\/a><br>No you&#039;re not I really own a H7 and it&#039;s a good one. Don&#039;t be paranoid and look up video reviews yourself anyway.<br><br>It&#039;s pretty easy to mount and looks very good, too. The sound it makes is not a pain to the ear either in all honesty.",
+      "filename": "Sans titre",
+      "ext": ".png",
+      "w": 677,
+      "h": 561,
+      "tn_w": 125,
+      "tn_h": 103,
+      "tim": 1495994121435,
+      "time": 1495994121,
+      "md5": "eqyw2DzgI4xlsQ0Dx4InPA==",
+      "fsize": 36563,
+      "resto": 60628128
+    },
+    {
+      "no": 60628855,
+      "now": "05\/28\/17(Sun)13:57:01",
+      "name": "Anonymous",
+      "com": "Good high quality speakers for PCs? <br>Was looking at pic related but I don&#039;t know if there&#039;s anything better out there for the same money.",
+      "filename": "71dN8GFYqFL._SL1200_[1]",
+      "ext": ".jpg",
+      "w": 1200,
+      "h": 1200,
+      "tn_w": 125,
+      "tn_h": 125,
+      "tim": 1495994221093,
+      "time": 1495994221,
+      "md5": "afiSEadAHnOl4YHcxLFkKA==",
+      "fsize": 157479,
+      "resto": 60628128
+    },
+    {
+      "no": 60628872,
+      "now": "05\/28\/17(Sun)13:58:03",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60628719\" class=\"quotelink\">&gt;&gt;60628719<\/a><br>If the fan stopped working you can just replace it.<br>tower style heatsinks usually use standard case fans though the sizes can vary.<br>Otherwise anything with LGA1150 or 1151 compatibility is also backwards compatible with 1155 so just get whatever you like",
+      "time": 1495994283,
+      "resto": 60628128
+    },
+    {
+      "no": 60628884,
+      "now": "05\/28\/17(Sun)13:58:49",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60628805\" class=\"quotelink\">&gt;&gt;60628805<\/a><br><span class=\"quote\">&gt;My thought was that with 80+ gold, it&#039;s most efficient around 50%, so I tried to put it where the load when gaming would approximately be at the 50% mark yo maximize efficency.<\/span><br>That does make sense but it&#039;s not something that is really down often because of how price inefficient it is<br>And besides, if it&#039;s efficiency you&#039;re searching for, Platinum &amp; Titanium rating exists",
+      "time": 1495994329,
+      "resto": 60628128
+    },
+    {
+      "no": 60628904,
+      "now": "05\/28\/17(Sun)13:59:58",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60628884\" class=\"quotelink\">&gt;&gt;60628884<\/a><br><span class=\"quote\">&gt;down<\/span><br>done",
+      "time": 1495994398,
+      "resto": 60628128
+    },
+    {
+      "no": 60628926,
+      "now": "05\/28\/17(Sun)14:01:21",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60628872\" class=\"quotelink\">&gt;&gt;60628872<\/a><br>Oh, I didn&#039;t know about the backwards compatibility.<br><br><a href=\"#p60628820\" class=\"quotelink\">&gt;&gt;60628820<\/a><br>Are they any other decent manufactures ? The shop around the corner sells Arctic Cooling,<br>be quiet!,Cooler Master,Corsair,MSI,Scythe,<br>Silverstone,too.<br>I seriously have no idea when it comes to coolers. I never had to change one before",
+      "time": 1495994481,
+      "resto": 60628128
+    },
+    {
+      "no": 60628948,
+      "now": "05\/28\/17(Sun)14:02:22",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60628855\" class=\"quotelink\">&gt;&gt;60628855<\/a><br>Studio monitors and an amp. Something &quot;fr PCs&quot; is probably shit in comparison.",
+      "time": 1495994542,
+      "resto": 60628128
+    },
+    {
+      "no": 60628983,
+      "now": "05\/28\/17(Sun)14:04:15",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60628926\" class=\"quotelink\">&gt;&gt;60628926<\/a><br>Cooler Master and be quiet! are very well known and respected names, as are Corsair and MSI. I&#039;ve heard of Scythe and Arctic Cooling but have no opinion.<br>The Cooler Master Hyper 212 Evo is the most popular cooler period.",
+      "time": 1495994655,
+      "resto": 60628128
+    },
+    {
+      "no": 60628985,
+      "now": "05\/28\/17(Sun)14:04:17",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60628884\" class=\"quotelink\">&gt;&gt;60628884<\/a><br>It varies from PSU to PSU, some PSU actually peak on their performance at really high loads.",
+      "time": 1495994657,
+      "resto": 60628128
+    },
+    {
+      "no": 60629007,
+      "now": "05\/28\/17(Sun)14:05:52",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60628983\" class=\"quotelink\">&gt;&gt;60628983<\/a><br>My old cooler was made by Scythe. It was alright. Can&#039;t really compare to other stuff but it was quite and kept the CPU cool.",
+      "time": 1495994752,
+      "resto": 60628128
+    },
+    {
+      "no": 60629023,
+      "now": "05\/28\/17(Sun)14:06:41",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60628805\" class=\"quotelink\">&gt;&gt;60628805<\/a><br><span class=\"quote\">&gt;My thought was that with 80+ gold, it&#039;s most efficient around 50%, so I tried to put it where the load when gaming would approximately be at the 50% mark yo maximize efficency.<\/span><br>The efficiency doesn&#039;t really go down significantly until you get around 80% load.",
+      "time": 1495994801,
+      "resto": 60628128
+    },
+    {
+      "no": 60629033,
+      "now": "05\/28\/17(Sun)14:07:02",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629007\" class=\"quotelink\">&gt;&gt;60629007<\/a><br>be quiet seems to be higher end and focuses their products on making everything quiet.",
+      "time": 1495994822,
+      "resto": 60628128
+    },
+    {
+      "no": 60629056,
+      "now": "05\/28\/17(Sun)14:08:48",
+      "name": "Anonymous",
+      "com": "Any suggestions on sub 10 inch monitors as a dedicated irc and other tiny shit monitor for a multi monitor setup?",
+      "time": 1495994928,
+      "resto": 60628128
+    },
+    {
+      "no": 60629067,
+      "now": "05\/28\/17(Sun)14:09:29",
+      "name": "Anonymous",
+      "com": "I don&#039;t know anything about fan curve and pic related is mine.<br><span class=\"quote\">&gt;0 = 0\u00b0C<\/span><br><span class=\"quote\">&gt;1 = 20\u00b0C<\/span><br><span class=\"quote\">&gt;2 = 30\u00b0C<\/span><br><span class=\"quote\">&gt;3 = 40\u00b0C<\/span><br><span class=\"quote\">&gt;4 = 50\u00b0C<\/span><br><span class=\"quote\">&gt;5 = 65\u00b0C<\/span><br>Under load\/gayming it&#039;s usual for my CPU to heat up in the 60-65+s (7700k). So with that in mind, isn&#039;t the step 5 a bit too late? I&#039;ve monitored myself a lot and basically, let&#039;s say on BF1, the CPU would usually be around 55-60\u00b0C and jump to the 65 or so from time to time when a lot happens - does that mean step 5 isn&#039;t constant when gayming and I should bring it closer to step 4 to have it activated at all time? Could I get better temps doing so? What do you guys recommend?<br><br>Sorry for the quality, taken with my 3DS.",
+      "filename": "HNI_0079",
+      "ext": ".jpg",
+      "w": 640,
+      "h": 480,
+      "tn_w": 125,
+      "tn_h": 93,
+      "tim": 1495994969013,
+      "time": 1495994969,
+      "md5": "gHGotWGi8zyTOlqawI2mfg==",
+      "fsize": 54763,
+      "resto": 60628128
+    },
+    {
+      "no": 60629074,
+      "now": "05\/28\/17(Sun)14:09:43",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629023\" class=\"quotelink\">&gt;&gt;60629023<\/a><br>Yeah, this is the difference between theory and practice. The theory says maximum power transfer happens at 50%, but in practice your shit doesn&#039;t really start getting fucked until 70-80%.",
+      "time": 1495994983,
+      "resto": 60628128
+    },
+    {
+      "no": 60629084,
+      "now": "05\/28\/17(Sun)14:10:29",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60628926\" class=\"quotelink\">&gt;&gt;60628926<\/a><br>Be Quiet is consistently good and Scythe has a couple excellent coolers. Corsair i believe exclusively deals in water cooling so dont bother with them and i&#039;m not too sure on the other 2.<br>Here&#039;s a chart that compares quite a few coolers with an overclocked skylake i7",
+      "filename": "1485776886643",
+      "ext": ".png",
+      "w": 1500,
+      "h": 1210,
+      "tn_w": 125,
+      "tn_h": 100,
+      "tim": 1495995029621,
+      "time": 1495995029,
+      "md5": "at5EBG3NSJESG6x4GkJQwg==",
+      "fsize": 462070,
+      "resto": 60628128
+    },
+    {
+      "no": 60629086,
+      "now": "05\/28\/17(Sun)14:11:15",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60628948\" class=\"quotelink\">&gt;&gt;60628948<\/a><br>I&#039;ve got a couple of ancient studio monitors and some massive amp, but I think one of those is fucked because the smaller monitor is much quieter and sounds which go from one to the other sound fucked.",
+      "time": 1495995075,
+      "resto": 60628128
+    },
+    {
+      "no": 60629120,
+      "now": "05\/28\/17(Sun)14:14:03",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629084\" class=\"quotelink\">&gt;&gt;60629084<\/a><br>The Scythe ones look pretty good to me. Are they the only ones that use this 4-pin system to keep the cooler in place ? I don&#039;t want to get my entire mobo out of the case",
+      "time": 1495995243,
+      "resto": 60628128
+    },
+    {
+      "no": 60629122,
+      "now": "05\/28\/17(Sun)14:14:09",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629084\" class=\"quotelink\">&gt;&gt;60629084<\/a><br>Why do they bother with noise measurement when they do 50\/100% pwm?<br><br>At the very least do RPM, but they should just go with the noise that it maxes out on, during a very strong OC. If the heatsink is huge with loads of heat pipes, the fan won&#039;t need as high rpm... But if it&#039;s small with few heatpipes, it&#039;ll need much higher RPM... Yet, using their retarded system, the bigger and quiter cooler could end up &quot;louder&quot; than the small one, because it has a higher RPM fan installed.",
+      "time": 1495995249,
+      "resto": 60628128
+    },
+    {
+      "no": 60629130,
+      "now": "05\/28\/17(Sun)14:15:11",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629084\" class=\"quotelink\">&gt;&gt;60629084<\/a><br>why is their 212 evo so bad? i use mine with a heavily OC i5 and it never ever gets into even the 80s under stress tests",
+      "time": 1495995311,
+      "resto": 60628128
+    },
+    {
+      "no": 60629157,
+      "now": "05\/28\/17(Sun)14:16:28",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629130\" class=\"quotelink\">&gt;&gt;60629130<\/a><br>Because its&#039; a low end cooler and is being compared against better ones",
+      "time": 1495995388,
+      "resto": 60628128
+    },
+    {
+      "no": 60629160,
+      "now": "05\/28\/17(Sun)14:16:45",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629130\" class=\"quotelink\">&gt;&gt;60629130<\/a><br>I think they just do bad OCs, feed it a ton of vcore, to get higher temperatures.",
+      "time": 1495995405,
+      "resto": 60628128
+    },
+    {
+      "no": 60629168,
+      "now": "05\/28\/17(Sun)14:17:18",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629067\" class=\"quotelink\">&gt;&gt;60629067<\/a><br>That&#039;s pretty aggressive but I guess if you don&#039;t mind the noise you could do what you described. I guess you missed the memo about 7700K running (and being able to run) pretty hot.",
+      "time": 1495995438,
+      "resto": 60628128
+    },
+    {
+      "no": 60629183,
+      "now": "05\/28\/17(Sun)14:18:19",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629130\" class=\"quotelink\">&gt;&gt;60629130<\/a><br>The heat spreader TIM might be a little better on yours than theirs, could be a bad binned i7 which needs more voltage to reach 4.6GHz, you might have a cooler ambient temperature than their test room or maybe you&#039;re reading temperatures in speccy like an idiot, who knows.",
+      "time": 1495995499,
+      "resto": 60628128
+    },
+    {
+      "no": 60629187,
+      "now": "05\/28\/17(Sun)14:18:49",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629157\" class=\"quotelink\">&gt;&gt;60629157<\/a><br>Not anon, but their temperatures are always off.<br><br>My higher OCed identical CPU, running in terrible airflow, but with the same cooler, will usually run a good 10C lower than theirs.<br>They just fuck up as much as they possibly can (without breaking the CPU from too high vcore) to get really high temperatures.",
+      "time": 1495995529,
+      "resto": 60628128
+    },
+    {
+      "no": 60629229,
+      "now": "05\/28\/17(Sun)14:21:40",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629183\" class=\"quotelink\">&gt;&gt;60629183<\/a><br>no i use HWinfo64",
+      "time": 1495995700,
+      "resto": 60628128
+    },
+    {
+      "no": 60629248,
+      "now": "05\/28\/17(Sun)14:22:40",
+      "name": "Anonymous",
+      "com": "https:\/\/ca.pcpartpicker.com\/list\/Ld<wbr>r9Yr<br><br>I&#039;ve slapped this shit together as something to get my coworker started for his build.  He wants a desktop to mostly play games.  Anything here that makes someone want to call me a retard?",
+      "time": 1495995760,
+      "resto": 60628128
+    },
+    {
+      "no": 60629287,
+      "now": "05\/28\/17(Sun)14:25:17",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629248\" class=\"quotelink\">&gt;&gt;60629248<\/a><br>pick dual channel (2x4gb) 3000mhz+ ram, preferebly from mobo&#039;s qvl",
+      "time": 1495995917,
+      "resto": 60628128
+    },
+    {
+      "no": 60629308,
+      "now": "05\/28\/17(Sun)14:26:50",
+      "name": "Anonymous",
+      "com": "if I have i3 4160 and 750 ti, should I buy i5 4460 or 1050 ti?",
+      "time": 1495996010,
+      "resto": 60628128
+    },
+    {
+      "no": 60629311,
+      "now": "05\/28\/17(Sun)14:26:58",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629248\" class=\"quotelink\">&gt;&gt;60629248<\/a><br>drop the 1600x for a 1600. use the stock cooler. upgrade the 580 to a 1070 since your gpu should always be a 3rd of your initial budget. spending $1300 on a pc to only get a mainstream borderline budget tier card like that is stupid.",
+      "time": 1495996018,
+      "resto": 60628128
+    },
+    {
+      "no": 60629317,
+      "now": "05\/28\/17(Sun)14:27:14",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629248\" class=\"quotelink\">&gt;&gt;60629248<\/a><br><a href=\"#p60629287\" class=\"quotelink\">&gt;&gt;60629287<\/a><br>Get 2x8, 8 gb isn&#039;t enough.",
+      "time": 1495996034,
+      "resto": 60628128
+    },
+    {
+      "no": 60629339,
+      "now": "05\/28\/17(Sun)14:28:22",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629130\" class=\"quotelink\">&gt;&gt;60629130<\/a><br>A standard aida64 test will get those temps.<br>That other one is stressing only FPU.<br>It&#039;s an unrealistic load but higher temperatures separate the coolers more.",
+      "filename": "temp_oc_aida64",
+      "ext": ".png",
+      "w": 500,
+      "h": 1210,
+      "tn_w": 51,
+      "tn_h": 125,
+      "tim": 1495996102153,
+      "time": 1495996102,
+      "md5": "OrIhrun15uTjuCu1g2hpcw==",
+      "fsize": 51513,
+      "resto": 60628128
+    },
+    {
+      "no": 60629348,
+      "now": "05\/28\/17(Sun)14:28:43",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629308\" class=\"quotelink\">&gt;&gt;60629308<\/a><br>That would be a very, very cost inefficient thing to do.",
+      "time": 1495996123,
+      "resto": 60628128
+    },
+    {
+      "no": 60629360,
+      "now": "05\/28\/17(Sun)14:29:26",
+      "name": "Anonymous",
+      "com": "ausfag here, pccase gear is selling a bundle.<br>ryzen 5 1600<br>Gigabyte AORUS AX370 Gaming 5 Motherboard<br>Gigabyte AORUS GeForce GTX 1080 Xtreme Edition 8GB<br>for $1300 dollarydoos.<br>worth getting?",
+      "time": 1495996166,
+      "resto": 60628128
+    },
+    {
+      "no": 60629387,
+      "now": "05\/28\/17(Sun)14:31:20",
+      "name": "Anonymous",
+      "com": "Hey \/pcbg\/<br>I&#039;m having troube with the RAM reqjencies lf my ryzen setup.<br><br>I&#039;m on an AsRock AB350m Pro4 with 2x8GB DDR4 3000MHz at 2666 without problem at 1.35V<br>But whenever i reach for any higher frequencies, my system starts to bootloop and it drops frequencies down to 2133.<br><br>Any advice on how to do this? I have tried from the BIOS and Ryzen Master, with same results.<br><br>Have a R7 1700 at 3.6GHz 1.15V stable so far.",
+      "time": 1495996280,
+      "resto": 60628128
+    },
+    {
+      "no": 60629393,
+      "now": "05\/28\/17(Sun)14:31:34",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629308\" class=\"quotelink\">&gt;&gt;60629308<\/a><br>You can just put a 1050ti with that i3 and it would be fine for 60fps 1080p.",
+      "time": 1495996294,
+      "resto": 60628128
+    },
+    {
+      "no": 60629411,
+      "now": "05\/28\/17(Sun)14:32:57",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629387\" class=\"quotelink\">&gt;&gt;60629387<\/a><br>Have you tried updating the BIOS?",
+      "time": 1495996377,
+      "resto": 60628128
+    },
+    {
+      "no": 60629412,
+      "now": "05\/28\/17(Sun)14:33:00",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60628128\" class=\"quotelink\">&gt;&gt;60628128<\/a><br>loking for more feedback on this build<br><br>https:\/\/de.pcpartpicker.com\/list\/8f<wbr>xhLD<br><br><span class=\"quote\">&gt;programming<\/span><br><span class=\"quote\">&gt;blizzard games<\/span><br><span class=\"quote\">&gt;cuda for neural network shenanigans<\/span><br><span class=\"quote\">&gt;700 euro budget<\/span>",
+      "time": 1495996380,
+      "resto": 60628128
+    },
+    {
+      "no": 60629424,
+      "now": "05\/28\/17(Sun)14:33:36",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629387\" class=\"quotelink\">&gt;&gt;60629387<\/a><br>The that board doesn&#039;t have good support for higher RAM frequencies. <br>I have the same board so i just left it at 2666MHz and tightened the timings and lowered the voltage.<br>Maybe the upcoming bios update will fix things",
+      "time": 1495996416,
+      "resto": 60628128
+    },
+    {
+      "no": 60629431,
+      "now": "05\/28\/17(Sun)14:33:50",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629360\" class=\"quotelink\">&gt;&gt;60629360<\/a><br>do it.",
+      "time": 1495996430,
+      "resto": 60628128
+    },
+    {
+      "no": 60629448,
+      "now": "05\/28\/17(Sun)14:34:52",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629387\" class=\"quotelink\">&gt;&gt;60629387<\/a><br>check for bios updates because that&#039;s what you need.",
+      "time": 1495996492,
+      "resto": 60628128
+    },
+    {
+      "no": 60629464,
+      "now": "05\/28\/17(Sun)14:36:12",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629412\" class=\"quotelink\">&gt;&gt;60629412<\/a><br>if you&#039;re happy with it then it&#039;s ok. can&#039;t see anything wrong with it based on your use case. i would have personally gone for a 1060 though, even a 3gb. it would have been way better for those blizzard games and also been better for CUDA workloads.",
+      "time": 1495996572,
+      "resto": 60628128
+    },
+    {
+      "no": 60629474,
+      "now": "05\/28\/17(Sun)14:36:31",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629248\" class=\"quotelink\">&gt;&gt;60629248<\/a><br>What <a href=\"#p60629317\" class=\"quotelink\">&gt;&gt;60629317<\/a> said, 8gb is really entry gaming.<br><br>Also, NZXT S350, Fractal Design Define C, and Phanteks P400S are at least cheaper cases, and comes with a couple of fans, which is enough. You&#039;re saving like 80$ on that, + the 20$ for the 1600 non-X (keep cooler).<br><br>With those savings you&#039;re pretty close to a GTX 1070... Unless he wants to get a freesync monitor, then maybe just save the change.",
+      "time": 1495996591,
+      "resto": 60628128
+    },
+    {
+      "no": 60629483,
+      "now": "05\/28\/17(Sun)14:37:08",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629464\" class=\"quotelink\">&gt;&gt;60629464<\/a><br>1060 is sadly far too expensive for me.",
+      "time": 1495996628,
+      "resto": 60628128
+    },
+    {
+      "no": 60629486,
+      "now": "05\/28\/17(Sun)14:37:17",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629431\" class=\"quotelink\">&gt;&gt;60629431<\/a><br>alright senpai, it&#039;s 4 am, im pretty drunk, they have limited stock and I have a bad habit of impulse buying.<br>need some good RAM to go with it cause i only have ddr3 and it&#039;s a ddr4 mobo",
+      "time": 1495996637,
+      "resto": 60628128
+    },
+    {
+      "no": 60629500,
+      "now": "05\/28\/17(Sun)14:38:03",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629339\" class=\"quotelink\">&gt;&gt;60629339<\/a><br>Still no him, but even with intelburntest, I don&#039;t reach their temps on lower clocked CPU.<br><br>intelburntest generates way more heat that full load on other software could ever reach.",
+      "time": 1495996683,
+      "resto": 60628128
+    },
+    {
+      "no": 60629514,
+      "now": "05\/28\/17(Sun)14:38:55",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629168\" class=\"quotelink\">&gt;&gt;60629168<\/a><br>I&#039;ll try and see how it goes.<br><br>And I didn&#039;t miss any memo. I built this before Ryzen even came out anyway. I&#039;m fine with 70\u00b0C max temps to be honest, and I&#039;m not even done tweaking the vcore (still lowering it by 0.05 every few days or so).",
+      "time": 1495996735,
+      "resto": 60628128
+    },
+    {
+      "no": 60629525,
+      "now": "05\/28\/17(Sun)14:39:29",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629448\" class=\"quotelink\">&gt;&gt;60629448<\/a><br><a href=\"#p60629424\" class=\"quotelink\">&gt;&gt;60629424<\/a><br>I&#039;m on the latest BIOS, yet can&#039;t get past 2667 like <a href=\"#p60629387\" class=\"quotelink\">&gt;&gt;60629387<\/a> said.<br><br>But the MB is supposed to support up to 3200MHz(OC). According to the web page and the manual.<br><br>Maybe just wait for more updates?",
+      "time": 1495996769,
+      "resto": 60628128
+    },
+    {
+      "no": 60629529,
+      "now": "05\/28\/17(Sun)14:39:34",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629387\" class=\"quotelink\">&gt;&gt;60629387<\/a><br>AMD shouold be releasing new microcode soon, to  make ram compatability much better. There&#039;ll probably be a bios update a bit after that, that lets you run your RAM at advertised speeds.",
+      "time": 1495996774,
+      "resto": 60628128
+    },
+    {
+      "no": 60629559,
+      "now": "05\/28\/17(Sun)14:41:34",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629483\" class=\"quotelink\">&gt;&gt;60629483<\/a><br>have you tried the used market? might be able to pick up a 980 or something similar for around the price of the 1050 ti",
+      "time": 1495996894,
+      "resto": 60628128
+    },
+    {
+      "no": 60629623,
+      "now": "05\/28\/17(Sun)14:44:50",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629525\" class=\"quotelink\">&gt;&gt;60629525<\/a><br><span class=\"quote\">&gt;But the MB is supposed to support up to 3200MHz(OC)<\/span><br>Look at the QV list closely and compare it to a higher end board from the same manufacturer.<br>http:\/\/www.asrock.com\/mb\/AMD\/AB350%<wbr>20Pro4\/#Memory<br>http:\/\/www.asrock.com\/MB\/AMD\/Fatal1<wbr>ty%20AB350%20Gaming%20K4\/index.asp#<wbr>Memory<br>See that it officially supports less 3200MHz configurations than even another b350 board.<br>There&#039;s nothing you can do, RAM overclocking controls in ryzen are severely limited, AGESA 1.0.0.6 should fix that though, all you can do is wait.",
+      "time": 1495997090,
+      "resto": 60628128
+    },
+    {
+      "no": 60629638,
+      "now": "05\/28\/17(Sun)14:46:16",
+      "name": "Anonymous",
+      "com": "Which CPU cooler would be enough to have a 1600X comfortably at the 4 GHz boost frequency?",
+      "time": 1495997176,
+      "resto": 60628128
+    },
+    {
+      "no": 60629649,
+      "now": "05\/28\/17(Sun)14:47:24",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629559\" class=\"quotelink\">&gt;&gt;60629559<\/a><br>one look at ebay I can only see that used 980s go for around 180 +. So above my budget.",
+      "time": 1495997244,
+      "resto": 60628128
+    },
+    {
+      "no": 60629670,
+      "now": "05\/28\/17(Sun)14:48:39",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60628128\" class=\"quotelink\">&gt;&gt;60628128<\/a><br><br>https:\/\/pcpartpicker.com\/list\/2v2q8<wbr>K<br><br>I&#039;m thinking of building a PC with these parts. I might get a different case though. I&#039;m primarily buying parts from Amazon US.<br><br>I&#039;m going to use it on my 50&quot; LED TV (1080p).<br><br>What do you guys think?",
+      "time": 1495997319,
+      "resto": 60628128
+    },
+    {
+      "no": 60629672,
+      "now": "05\/28\/17(Sun)14:49:01",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629514\" class=\"quotelink\">&gt;&gt;60629514<\/a><br>What I meant was that you&#039;re, in my humble opinion, stressing about the temperature too much. Like someone in \/sqt\/ already mentioned, you could just ease up on the curve a bit and enjoy the (relative) silence. Or keep the curve as it is and push the clocks further.",
+      "time": 1495997341,
+      "resto": 60628128
+    },
+    {
+      "no": 60629681,
+      "now": "05\/28\/17(Sun)14:49:38",
+      "name": "Anonymous",
+      "com": "I think my ideal case might be something like a better ventilated FT03-Mini, anything on the horizon? It would be sort of amazing if Silverstone could offer a mesh\/ventilated side panel for the GPU side.",
+      "time": 1495997378,
+      "resto": 60628128
+    },
+    {
+      "no": 60629684,
+      "now": "05\/28\/17(Sun)14:49:40",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629670\" class=\"quotelink\">&gt;&gt;60629670<\/a><br>What&#039;s the usage specifically?",
+      "time": 1495997380,
+      "resto": 60628128
+    },
+    {
+      "no": 60629698,
+      "now": "05\/28\/17(Sun)14:50:24",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629649\" class=\"quotelink\">&gt;&gt;60629649<\/a><br>how about a 970?<br><br>http:\/\/www.ebay.de\/itm\/GIGABYTE-NVI<wbr>DIA-GTX-970-GV-N970G1-GAMING-4GD-RE<wbr>V-1-1-\/322533932711?hash=item4b1885<wbr>3ea7:g:CTcAAOSwfpVZKwaW<br><br>this is pretty much the same price as your 1050 ti but is way faster and also much cheaper than the cheapest 480 or 1060. when overclocked the 970 is basically on par with those gpu.",
+      "time": 1495997424,
+      "resto": 60628128
+    },
+    {
+      "no": 60629732,
+      "now": "05\/28\/17(Sun)14:52:05",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629670\" class=\"quotelink\">&gt;&gt;60629670<\/a><br>Tell us the usage case. because if you&#039;re using it for anything other than gaming, we&#039;re going to suggest AMD Ryzen",
+      "time": 1495997525,
+      "resto": 60628128
+    },
+    {
+      "no": 60629737,
+      "now": "05\/28\/17(Sun)14:52:10",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629638\" class=\"quotelink\">&gt;&gt;60629638<\/a><br>You do know how boost frequencies work right?<br>the CPU only ramps up to those frequencies when there are only a couple threads being stressed.<br>I know ryzen 7 operates at boost frequencies with up to 4 threaded workloads but i dont know about ryzen 5, it may be 4 as well, either way any cooler that can handle your CPU at 100% load should be enough for a couple boosted cores.",
+      "time": 1495997530,
+      "resto": 60628128
+    },
+    {
+      "no": 60629751,
+      "now": "05\/28\/17(Sun)14:53:22",
+      "name": "Anonymous",
+      "com": "Got 2 questions:<br>1. Is it safe to pair an Nvidia card with Ryzen? I&#039;m mainly considering RX580 because I&#039;m already getting R5 1600 and I&#039;m hearing there&#039;s some problems with Nvidia&#039;s drivers or something. I&#039;d rather buy a 1060 because there&#039;s no problem with it being out of stock and I&#039;d like to do CUDA some day.<br>2. Is it worth getting RAM that&#039;s faster than 2666MHz when paired up with a GTX1060\/RX580? According to this video it&#039;s not: https:\/\/www.youtube.com\/watch?v=U4k<wbr>_ErEg-FU",
+      "time": 1495997602,
+      "resto": 60628128
+    },
+    {
+      "no": 60629772,
+      "now": "05\/28\/17(Sun)14:54:26",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629529\" class=\"quotelink\">&gt;&gt;60629529<\/a><br>It&#039;s already out<br><br>Now it&#039;s up to motherboard manufacturers to update their bios. A few already have.",
+      "time": 1495997666,
+      "resto": 60628128
+    },
+    {
+      "no": 60629801,
+      "now": "05\/28\/17(Sun)14:56:20",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629751\" class=\"quotelink\">&gt;&gt;60629751<\/a><br><span class=\"quote\">&gt;1. Is it safe to pair an Nvidia card with Ryzen? I&#039;m mainly considering RX580 because I&#039;m already getting R5 1600 and I&#039;m hearing there&#039;s some problems with Nvidia&#039;s drivers or something. I&#039;d rather buy a 1060 because there&#039;s no problem with it being out of stock and I&#039;d like to do CUDA some day.<\/span><br><br>yes. only high fps autists make a big deal. people like adoredtv complain about getting 150 fps instead of 180 fps. it&#039;s all stupidity. for 1080p60 it&#039;s 100% fine. also if you want to utilize CUDA then that&#039;s your only bet<br><br><span class=\"quote\">&gt;2. Is it worth getting RAM that&#039;s faster than 2666MHz when paired up with a GTX1060\/RX580? According to this video it&#039;s not: https:\/\/www.youtube.com\/watch?v=U4k<wbr>_ErEg-FU [Embed]<\/span><br><br>again, for high fps it will make a difference. at 1080p60 you probably won&#039;t see a difference.",
+      "time": 1495997780,
+      "resto": 60628128
+    },
+    {
+      "no": 60629808,
+      "now": "05\/28\/17(Sun)14:56:48",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629698\" class=\"quotelink\">&gt;&gt;60629698<\/a><br>Yeah until a game needs more than 3.5gb&#039;s of memory and then it absolutely shits the bed<br><br>e.g. minecraft with some mods, some of the java games I play, skyrim or fallout with mods, any new AAA titles pushing graphics...<br><br>You don&#039;t want a 970.",
+      "time": 1495997808,
+      "resto": 60628128
+    },
+    {
+      "no": 60629809,
+      "now": "05\/28\/17(Sun)14:56:53",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629698\" class=\"quotelink\">&gt;&gt;60629698<\/a><br>there are some msi 970s on, I will monitor this and make my decision then. A retailer in germany has the gigabyte 1050 ti currently on sale for 137 euros and the offer is only available until tomorrow. Not sure if I should cop or not yet. But I&#039;ll definitely get the ram for 44 euros.",
+      "time": 1495997813,
+      "resto": 60628128
+    },
+    {
+      "no": 60629835,
+      "now": "05\/28\/17(Sun)14:59:07",
+      "name": "Anonymous",
+      "com": "How bad are the tradeoffs for going MiniITX over MicroATX?",
+      "time": 1495997947,
+      "resto": 60628128
+    },
+    {
+      "no": 60629843,
+      "now": "05\/28\/17(Sun)14:59:18",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629808\" class=\"quotelink\">&gt;&gt;60629808<\/a><br>this isn&#039;t a fanboy general. keep the misinformation out of here. the 970 is fine. <br><br><a href=\"#p60629809\" class=\"quotelink\">&gt;&gt;60629809<\/a><br>that 970 is also a new listing and seems to be the cheapest 970 on there by far. i&#039;d make a decision quick. it will be better at cuda workloads than that 1050 ti too.",
+      "time": 1495997958,
+      "resto": 60628128
+    },
+    {
+      "no": 60629849,
+      "now": "05\/28\/17(Sun)14:59:32",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629751\" class=\"quotelink\">&gt;&gt;60629751<\/a><br><span class=\"quote\">&gt;1. Is it safe to pair an Nvidia card with Ryzen?<\/span><br>Well nothing&#039;s going to get fucked up<br><br>But Nvidia drivers don&#039;t play well with AMD for some strange coincidental reason which is totally probably an accident and will get fixed soon nvidia promises, so you get better performance with an all-AMD setup than mixing the two brands.",
+      "time": 1495997972,
+      "resto": 60628128
+    },
+    {
+      "no": 60629862,
+      "now": "05\/28\/17(Sun)15:00:33",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629843\" class=\"quotelink\">&gt;&gt;60629843<\/a><br>The 970 is not fine and you&#039;re an idiot for recommending it to anyone<br><br>Nvidia literally got sued over that card and had to pay out to all the owners.",
+      "time": 1495998033,
+      "resto": 60628128
+    },
+    {
+      "no": 60629866,
+      "now": "05\/28\/17(Sun)15:00:36",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629849\" class=\"quotelink\">&gt;&gt;60629849<\/a><br><span class=\"quote\">&gt;so you get better performance with an all-AMD setup than mixing the two brands.<\/span><br><br>No",
+      "filename": "sanjeet",
+      "ext": ".png",
+      "w": 768,
+      "h": 75,
+      "tn_w": 125,
+      "tn_h": 12,
+      "tim": 1495998036912,
+      "time": 1495998036,
+      "md5": "QOiRvE7L27qoVSd06keFlw==",
+      "fsize": 12524,
+      "resto": 60628128
+    },
+    {
+      "no": 60629881,
+      "now": "05\/28\/17(Sun)15:01:52",
+      "name": "Anonymous",
+      "com": "Any place I could save some money? Trying to do 1080p 60fps+ in ow and some aaa games. Also is this considered &quot;upgradeable&quot;?<br><br>CPU: AMD - Ryzen 5 1600 3.2GHz 6-Core Processor ($218.58 @ OutletPC)<br>Motherboard: ASRock - AB350M Pro4 Micro ATX AM4 Motherboard ($77.98 @ Newegg)<br>Memory: Corsair - Vengeance LPX 16GB (2 x 8GB) DDR4-3000 Memory ($126.99 @ Amazon)<br>Storage: *Sandisk - SSD PLUS 240GB 2.5&quot; Solid State Drive ($83.36 @ Amazon)<br>Storage: *Seagate - Barracuda ES 1TB 3.5&quot; 7200RPM Internal Hard Drive ($43.99 @ Amazon)<br>Video Card: MSI - Radeon RX 580 8GB GAMING X Video Card ($254.99 @ SuperBiiz)<br>Case: Deepcool - TESSERACT BF ATX Mid Tower Case ($35.98 @ Newegg)<br>Power Supply: *Corsair - CXM 450W 80+ Bronze Certified Semi-Modular ATX Power Supply ($49.99 @ Newegg)<br>Total: $891.86<br>Prices include shipping, taxes, and discounts when available<br>*Lowest price parts chosen from parametric criteria<br>Generated by PCPartPicker 2017-05-27 16:19 EDT-0400",
+      "time": 1495998112,
+      "resto": 60628128
+    },
+    {
+      "no": 60629884,
+      "now": "05\/28\/17(Sun)15:01:59",
+      "name": "Anonymous",
+      "com": "I know that the 1600 is generally recommended instead, but is it worth getting a 7600k if it&#039;s only $200?<br><br>Pretty much just for gaymen",
+      "time": 1495998119,
+      "resto": 60628128
+    },
+    {
+      "no": 60629901,
+      "now": "05\/28\/17(Sun)15:02:45",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629862\" class=\"quotelink\">&gt;&gt;60629862<\/a><br>please, tell me if they got sued because everyone was saying their gpu was failing because of the 3.5 or because of a marketing &quot;error&quot;. your answer will dictate to us all how much of a fanboy you really are.",
+      "time": 1495998165,
+      "resto": 60628128
+    },
+    {
+      "no": 60629907,
+      "now": "05\/28\/17(Sun)15:03:05",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629881\" class=\"quotelink\">&gt;&gt;60629881<\/a><br>Not getting expensive 3000MHz memory that won&#039;t benefit you &amp; dropping to an RX 570 which is much cheaper but performs still great at AAAs",
+      "time": 1495998185,
+      "resto": 60628128
+    },
+    {
+      "no": 60629910,
+      "now": "05\/28\/17(Sun)15:03:23",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629881\" class=\"quotelink\">&gt;&gt;60629881<\/a><br>Check out this post, he has your MB:<a href=\"#p60629387\" class=\"quotelink\">&gt;&gt;60629387<\/a><br><br>Might wanna cut back on that RAM.",
+      "time": 1495998203,
+      "resto": 60628128
+    },
+    {
+      "no": 60629922,
+      "now": "05\/28\/17(Sun)15:04:07",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629884\" class=\"quotelink\">&gt;&gt;60629884<\/a><br>Not really, because you&#039;re still gonna need to buy a cooler which will end up more expensive than an R5 1600 by a few dollars even though you&#039;ll be getting an inferior product.",
+      "time": 1495998247,
+      "resto": 60628128
+    },
+    {
+      "no": 60629925,
+      "now": "05\/28\/17(Sun)15:04:22",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629670\" class=\"quotelink\">&gt;&gt;60629670<\/a><br>You dont need an i7 or gtx 1070 for 60fps 1080p.",
+      "time": 1495998262,
+      "resto": 60628128
+    },
+    {
+      "no": 60629947,
+      "now": "05\/28\/17(Sun)15:05:19",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629732\" class=\"quotelink\">&gt;&gt;60629732<\/a><br><span class=\"quote\">&gt;if you&#039;re using it for anything other than gaming, we&#039;re going to suggest AMD Ryzen<\/span><br>Even then, the 7700k is certainly not made for regular gamers because of how cost inefficient it is and because it&#039;s strengths do not benefit the average gamer even remotely",
+      "time": 1495998319,
+      "resto": 60628128
+    },
+    {
+      "no": 60629960,
+      "now": "05\/28\/17(Sun)15:06:20",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629866\" class=\"quotelink\">&gt;&gt;60629866<\/a><br>Yes<br><br>https:\/\/www.youtube.com\/watch?v=0tf<wbr>TZjugDeg",
+      "time": 1495998380,
+      "resto": 60628128
+    },
+    {
+      "no": 60629963,
+      "now": "05\/28\/17(Sun)15:06:27",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629907\" class=\"quotelink\">&gt;&gt;60629907<\/a> will I not be able to take advantage of 3000mhz? What would you recommend?",
+      "time": 1495998387,
+      "resto": 60628128
+    },
+    {
+      "no": 60629984,
+      "now": "05\/28\/17(Sun)15:07:53",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60628855\" class=\"quotelink\">&gt;&gt;60628855<\/a><br>I got you covered bro. If you don&#039;t want spend this much (this is cheap by audio standards) get some Klipsch promedia 2.1. <br><br>But this will have you covered for headphone amp as well.",
+      "filename": "audio",
+      "ext": ".png",
+      "w": 861,
+      "h": 469,
+      "tn_w": 125,
+      "tn_h": 68,
+      "tim": 1495998473096,
+      "time": 1495998473,
+      "md5": "CgxFuR5oWgRtS9Mlu+\/x9A==",
+      "fsize": 93338,
+      "resto": 60628128
+    },
+    {
+      "no": 60630002,
+      "now": "05\/28\/17(Sun)15:08:51",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629963\" class=\"quotelink\">&gt;&gt;60629963<\/a><br>Cheaper 2600MHz memory.<br>3000mhz gives more performance but you&#039;ll already be over your screen refresh&#039;s rate by good margin so it wouldn&#039;t give any difference to you.",
+      "time": 1495998531,
+      "resto": 60628128
+    },
+    {
+      "no": 60630021,
+      "now": "05\/28\/17(Sun)15:10:08",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629901\" class=\"quotelink\">&gt;&gt;60629901<\/a><br>They got sued for misleading people with marketing, much the way you&#039;re doing damage control here right now,<br><br>AND because the 970 tells the game it has 4GB of memory, but the last 0.5GB is slow worthless shit, games don&#039;t properly compensate. The moment you hit that 3.5GB limit, which like I already pointed out: <a href=\"#p60629808\" class=\"quotelink\">&gt;&gt;60629808<\/a> can happen fairly easily, your performance tanks like a rock. The game thinks it has 4GB to work with, but it doesn&#039;t.<br><br>You&#039;re such a disingenuous marketing fuckwit.<br><br>Nobody should be buying a 970, and anyone who does is getting scammed.<br><br>By all means, recommend a fucking 1050 or 1060 or whatever the fuck, but don&#039;t recommend actual sabotaged hardware.",
+      "time": 1495998608,
+      "resto": 60628128
+    },
+    {
+      "no": 60630022,
+      "now": "05\/28\/17(Sun)15:10:08",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629960\" class=\"quotelink\">&gt;&gt;60629960<\/a><br>you do realize that this is a specific issue for RotTR, right? you just proved how retarded you really are by posting that retard who even amd owners such as myself don&#039;t acknowledge.<br><br>here, have some real in depth info:<br><br>http:\/\/www.techspot.com\/article\/137<wbr>4-amd-ryzen-with-amd-gpu\/page6.html<wbr><br><br><span class=\"quote\">&gt;So, are Nvidia GPUs limiting Ryzen&#039;s gaming performance? Well, we didn&#039;t find any evidence of that. In some DX12 scenarios, the 1800X performs better than the 7700K when paired with a RX 480 over the GTX 1060, but that doesn&#039;t prove Nvidia is handicapping Ryzen.<\/span>",
+      "time": 1495998608,
+      "resto": 60628128
+    },
+    {
+      "no": 60630046,
+      "now": "05\/28\/17(Sun)15:11:20",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60630022\" class=\"quotelink\">&gt;&gt;60630022<\/a><br>It&#039;s an nvidia driver issue, not a problem with the game. It&#039;s cropped up in a few others.",
+      "time": 1495998680,
+      "resto": 60628128
+    },
+    {
+      "no": 60630070,
+      "now": "05\/28\/17(Sun)15:12:53",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60630021\" class=\"quotelink\">&gt;&gt;60630021<\/a><br><span class=\"quote\">&gt;your performance tanks like a rock.<\/span><br><br>oh really now. can i request a measly 10 videos of gameplay which confirm this? i already have 20+ vids i can provide which prove that this is not the case but i&#039;ll allow you to go first since you seem to have much evidence of your claims.",
+      "time": 1495998773,
+      "resto": 60628128
+    },
+    {
+      "no": 60630075,
+      "now": "05\/28\/17(Sun)15:13:18",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60630022\" class=\"quotelink\">&gt;&gt;60630022<\/a><br><span class=\"quote\">&gt;specific issue for RotTR<\/span><br>This issue has been known for years, it&#039;s specific to Nvidia but not Ryzen. Happens at times with 6+ cores CPUs.<br>And it also appears in Civilization 6 &amp; Rocket League",
+      "time": 1495998798,
+      "resto": 60628128
+    },
+    {
+      "no": 60630081,
+      "now": "05\/28\/17(Sun)15:13:34",
+      "name": "Anonymous",
+      "com": "250d",
+      "filename": "IMAG0279",
+      "ext": ".jpg",
+      "w": 4000,
+      "h": 3000,
+      "tn_w": 125,
+      "tn_h": 93,
+      "tim": 1495998814811,
+      "time": 1495998814,
+      "md5": "Txnebsfc8y29y3FYb2g1xA==",
+      "fsize": 1084966,
+      "resto": 60628128
+    },
+    {
+      "no": 60630085,
+      "now": "05\/28\/17(Sun)15:13:51",
+      "name": "Anonymous",
+      "com": "What&#039;s the most performant AIO 120mm CPU cooler?<br>My 7700k is catching fire.",
+      "time": 1495998831,
+      "resto": 60628128
+    },
+    {
+      "no": 60630091,
+      "now": "05\/28\/17(Sun)15:14:29",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60630085\" class=\"quotelink\">&gt;&gt;60630085<\/a><br>delid it?<br>What&#039;s your current cooler, that Noctua UHS-15 or whatever the hell it was?",
+      "time": 1495998869,
+      "resto": 60628128
+    },
+    {
+      "no": 60630092,
+      "now": "05\/28\/17(Sun)15:14:31",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60630085\" class=\"quotelink\">&gt;&gt;60630085<\/a><br>A noctua or the cooler Master master cooler AIO",
+      "time": 1495998871,
+      "resto": 60628128
+    },
+    {
+      "no": 60630100,
+      "now": "05\/28\/17(Sun)15:15:02",
+      "name": "Anonymous",
+      "com": "YO<br><br>Two of my case fans of my r4 fractal case won&#039;t work! I just upgraded to an i7 and gigabyte h270 mobo.<br><br>The fan will spin for one second when I turn it on then turn off. Is my 650w PSU not enough? (also using an r9 290). The front intake fan doesnt work either and its connected to the molex i beleive",
+      "time": 1495998902,
+      "resto": 60628128
+    },
+    {
+      "no": 60630111,
+      "now": "05\/28\/17(Sun)15:15:37",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60630075\" class=\"quotelink\">&gt;&gt;60630075<\/a><br>i&#039;ve never encountered this before and i watch plenty of reviews including jokerproductions who has been testing games for some time with his 6800k system and no games show signs of slowdown until tomb raider.",
+      "time": 1495998937,
+      "resto": 60628128
+    },
+    {
+      "no": 60630125,
+      "now": "05\/28\/17(Sun)15:16:49",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60630092\" class=\"quotelink\">&gt;&gt;60630092<\/a><br>Noctua does liquid cooling now?",
+      "time": 1495999009,
+      "resto": 60628128
+    },
+    {
+      "no": 60630127,
+      "now": "05\/28\/17(Sun)15:16:50",
+      "name": "Anonymous",
+      "com": "hey I just built a ryzen 5 1600, gtx 1060 6gb with 16gb RAM running at 2133 mhz.<br><br><br>FPS is dropping to 40-50 in fights in planetside 2, is this expected? Or is something awry?",
+      "time": 1495999010,
+      "resto": 60628128
+    },
+    {
+      "no": 60630142,
+      "now": "05\/28\/17(Sun)15:17:42",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60630075\" class=\"quotelink\">&gt;&gt;60630075<\/a><br>Can add The Division to the last: https:\/\/youtu.be\/QBf2lvfKkxA<br><br>Is this general literally camped by nvidia shills 24\/7 or something?",
+      "time": 1495999062,
+      "resto": 60628128
+    },
+    {
+      "no": 60630143,
+      "now": "05\/28\/17(Sun)15:17:50",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60630127\" class=\"quotelink\">&gt;&gt;60630127<\/a><br><span class=\"quote\">&gt;he fell for the Ryzen meme<\/span><br><br>I&#039;m sorry for your loss.",
+      "time": 1495999070,
+      "resto": 60628128
+    },
+    {
+      "no": 60630161,
+      "now": "05\/28\/17(Sun)15:18:39",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60630143\" class=\"quotelink\">&gt;&gt;60630143<\/a><br>well, i&#039;m not a gamer really. I figured i&#039;d throw in the gpu to play games on the side. I mainly use my computer as an audio workstation",
+      "time": 1495999119,
+      "resto": 60628128
+    },
+    {
+      "no": 60630171,
+      "now": "05\/28\/17(Sun)15:19:01",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629684\" class=\"quotelink\">&gt;&gt;60629684<\/a><br>Gaming and normal PC usage.<br><a href=\"#p60629732\" class=\"quotelink\">&gt;&gt;60629732<\/a><br>I agree with you now. I looked into it and the R5 1600 seems good and comes with a cooler.<br><a href=\"#p60629925\" class=\"quotelink\">&gt;&gt;60629925<\/a><br><a href=\"#p60629947\" class=\"quotelink\">&gt;&gt;60629947<\/a><br><br>I revised my build list to https:\/\/pcpartpicker.com\/list\/NYhsr<wbr>7.<br><br>Now $1079. Before $1282. Thanks.",
+      "time": 1495999141,
+      "resto": 60628128
+    },
+    {
+      "no": 60630213,
+      "now": "05\/28\/17(Sun)15:21:13",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60630171\" class=\"quotelink\">&gt;&gt;60630171<\/a><br>Seriously drop the gpu down to a 1060 6GB or something.<br>A 1070 is for 1440p 80FPS+, it&#039;s super overkill.",
+      "time": 1495999273,
+      "resto": 60628128
+    },
+    {
+      "no": 60630217,
+      "now": "05\/28\/17(Sun)15:21:21",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60630142\" class=\"quotelink\">&gt;&gt;60630142<\/a><br>nope. here, have some more verified benches:<br><br>http:\/\/www.techspot.com\/article\/137<wbr>4-amd-ryzen-with-amd-gpu\/page2.html<wbr>",
+      "time": 1495999281,
+      "resto": 60628128
+    },
+    {
+      "no": 60630220,
+      "now": "05\/28\/17(Sun)15:21:22",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60630127\" class=\"quotelink\">&gt;&gt;60630127<\/a><br>PS2 has really shitty performance all the time.<br><br>Especially if you max everything out. You&#039;ll probably see a massive fps increase (like double what you get now) just by disabling shadows. Also set textures to ultra. Anything less than ultra costs CPU time because the game compresses the textures on the fly. The only reason to use lower than ultra is if you don&#039;t have the VRAM to handle higher res textures (you have 6GB so you&#039;re more than fine here).<br><br>I get 40-50 in a fight with a gtx 660, but I&#039;ve got no shadows, like 1600x900 resolution, etc.",
+      "time": 1495999282,
+      "resto": 60628128
+    },
+    {
+      "no": 60630232,
+      "now": "05\/28\/17(Sun)15:21:56",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60630125\" class=\"quotelink\">&gt;&gt;60630125<\/a><br>No, he is asking if he should do Noctua on air, or an AIO.",
+      "time": 1495999316,
+      "resto": 60628128
+    },
+    {
+      "no": 60630237,
+      "now": "05\/28\/17(Sun)15:22:24",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60630142\" class=\"quotelink\">&gt;&gt;60630142<\/a><br>Yes. Intel to a lesser extent, but nvidia shills fucking constantly.",
+      "time": 1495999344,
+      "resto": 60628128
+    },
+    {
+      "no": 60630249,
+      "now": "05\/28\/17(Sun)15:23:01",
+      "name": "Anonymous",
+      "com": "https:\/\/uk.pcpartpicker.com\/list\/yt<wbr>Rfcc<br><br>Any thoughts or tips on my first build?",
+      "time": 1495999381,
+      "resto": 60628128
+    },
+    {
+      "no": 60630310,
+      "now": "05\/28\/17(Sun)15:25:35",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60630171\" class=\"quotelink\">&gt;&gt;60630171<\/a><br>Looks good to me, the GTX 1070 is overkill but it&#039;s still not that bad of a choice",
+      "time": 1495999535,
+      "resto": 60628128
+    },
+    {
+      "no": 60630321,
+      "now": "05\/28\/17(Sun)15:26:02",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60630249\" class=\"quotelink\">&gt;&gt;60630249<\/a><br><span class=\"quote\">&gt;buying amd in the UK<\/span><br><br>unless you like paying stupidly inflated prices, get nvidia. you can get a 1060 6gb for about \u00a3200 and a 1060 3gb for \u00a3150.<br><br>http:\/\/www.ebuyer.com\/769693-msi-nv<wbr>idia-geforce-gtx-1060-6gb-gddr5-oc-<wbr>v1-graphics-card-gtx-1060-6gt-ocv1",
+      "time": 1495999562,
+      "resto": 60628128
+    },
+    {
+      "no": 60630357,
+      "now": "05\/28\/17(Sun)15:27:39",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60630232\" class=\"quotelink\">&gt;&gt;60630232<\/a><br>I already have a Noctua NH U9S.<br>I reached 87\u00b0C today, I need something better.",
+      "time": 1495999659,
+      "resto": 60628128
+    },
+    {
+      "no": 60630363,
+      "now": "05\/28\/17(Sun)15:28:00",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60630213\" class=\"quotelink\">&gt;&gt;60630213<\/a><br><br>The cheapest 6GB 1060 is for $240. The cheapest 1070 is $335.<br><br>I don&#039;t mind paying the $95 for the performance and 2GB difference.",
+      "time": 1495999680,
+      "resto": 60628128
+    },
+    {
+      "no": 60630377,
+      "now": "05\/28\/17(Sun)15:28:51",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60630220\" class=\"quotelink\">&gt;&gt;60630220<\/a><br>thanks man, yeah it was fine on medium settings. But I guess I was a dumbass and figured &quot;hurrr i have a nice computer i should set it to ultra&quot;<br><br>Yeah i&#039;ll set it back to medium",
+      "time": 1495999731,
+      "resto": 60628128
+    },
+    {
+      "no": 60630404,
+      "now": "05\/28\/17(Sun)15:30:24",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60630357\" class=\"quotelink\">&gt;&gt;60630357<\/a><br>You can get almost anything 120mm really and if it&#039;s too loud or not good enough slap on two ml120 for $30 and you got some real performance there",
+      "time": 1495999824,
+      "resto": 60628128
+    },
+    {
+      "no": 60630451,
+      "now": "05\/28\/17(Sun)15:33:05",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60630377\" class=\"quotelink\">&gt;&gt;60630377<\/a><br>Honestly for like 90% of the games out there you&#039;d be fine, but planetside 2 is one of those outliers that is complete ass no matter what your computer is.",
+      "time": 1495999985,
+      "resto": 60628128
+    },
+    {
+      "no": 60630455,
+      "now": "05\/28\/17(Sun)15:33:23",
+      "name": "Anonymous",
+      "com": "https:\/\/ca.pcpartpicker.com\/list\/Tv<wbr>CBtJ<br><br>Okay, another attempt.<br><br><a href=\"#p60629287\" class=\"quotelink\">&gt;&gt;60629287<\/a><br>I&#039;m not going to exceed 2400, since my coworker won&#039;t be interested in overclocking.  Not initially, at any rate.<br><br><a href=\"#p60629311\" class=\"quotelink\">&gt;&gt;60629311<\/a><br>Makes sense.<br><br><a href=\"#p60629474\" class=\"quotelink\">&gt;&gt;60629474<\/a><br><span class=\"quote\">&gt;What <a href=\"#p60629317\" class=\"quotelink\">&gt;&gt;60629317<\/a> said, 8gb is really entry gaming.<\/span><br>In my experience 8GB is borderline for decent games, though if he wants to cut costs on this it&#039;ll be his choice.<br><br><span class=\"quote\">&gt;Define C<\/span><br>Cool.<br><br><span class=\"quote\">&gt;With those savings you&#039;re pretty close to a GTX 1070<\/span><br>Yeah, it ends up being about a hundred more than the last iteration.  He said about $1300, but I think he might be okay with it.<br><br><br>Thanks for everyone&#039;s feedback.",
+      "time": 1496000003,
+      "resto": 60628128
+    },
+    {
+      "no": 60630476,
+      "now": "05\/28\/17(Sun)15:34:50",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60630455\" class=\"quotelink\">&gt;&gt;60630455<\/a><br>That works",
+      "time": 1496000090,
+      "resto": 60628128
+    },
+    {
+      "no": 60630503,
+      "now": "05\/28\/17(Sun)15:36:46",
+      "name": "Anonymous",
+      "com": "How&#039;d I do?<br><br>Purpose is mainly programming\/development. Will be booted into Linux most of the time and hooked up to a 4K monitor.<br><br>For games, I&#039;ll mainly need to run OW at 60+ fps at 1080 (render-scaled up to 4K). I might bump the GPU up to a 1070.<br><br>I don&#039;t usually go full autismo on the color scheme but I thought it might be fun to try. I don&#039;t think I&#039;m paying too much of a premium for that.<br><br>Thanks for lookin&#039;",
+      "filename": "R4wL2Fp",
+      "ext": ".png",
+      "w": 879,
+      "h": 688,
+      "tn_w": 125,
+      "tn_h": 97,
+      "tim": 1496000206939,
+      "time": 1496000206,
+      "md5": "IWy2lmz0KGrJcrEsiHWHyg==",
+      "fsize": 101214,
+      "resto": 60628128
+    },
+    {
+      "no": 60630513,
+      "now": "05\/28\/17(Sun)15:38:02",
+      "name": "Anonymous",
+      "com": "https:\/\/pcpartpicker.com\/list\/Xh8hL<wbr>D<br>Does anything stand out as a particularly bad? It&#039;s probably not optimal but I don&#039;t really care too much about squeezing out every shekel, I just wanted a good 1080p build with a balance between low-mid budget, decent looks and silent\/cool gayming.<br><br>Couldn&#039;t jump into the Ryzen bandwagon this time, my only real constraint was the mitx case.",
+      "time": 1496000282,
+      "resto": 60628128
+    },
+    {
+      "no": 60630517,
+      "now": "05\/28\/17(Sun)15:38:08",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60630455\" class=\"quotelink\">&gt;&gt;60630455<\/a><br>looks pretty good. i&#039;d personally save $50-$80 by going for a cheaper bronze certified psu for around $60 and maybe a cheaper brand ssd if it&#039;s only used as a boot drive. you can contribute the money towards faster ram, which ryzen thrives on, especially at the high framerates you&#039;d be pushing with that 1070. other than that it&#039;s good.",
+      "time": 1496000288,
+      "resto": 60628128
+    },
+    {
+      "no": 60630535,
+      "now": "05\/28\/17(Sun)15:39:10",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60628233\" class=\"quotelink\">&gt;&gt;60628233<\/a><br>there is absolutely nothing wrong with ryzen though",
+      "time": 1496000350,
+      "resto": 60628128
+    },
+    {
+      "no": 60630545,
+      "now": "05\/28\/17(Sun)15:39:46",
+      "name": "Anonymous",
+      "com": "https:\/\/pcpartpicker.com\/list\/MPHVP<wbr>s<br><br>Budget is like 700 dollars maybe 800 if the performance upgrade is retarded. Goal is improved performance within the budget. Just started building pls no bully. Will be used for gaming mostly.",
+      "time": 1496000386,
+      "resto": 60628128
+    },
+    {
+      "no": 60630557,
+      "now": "05\/28\/17(Sun)15:40:18",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60630513\" class=\"quotelink\">&gt;&gt;60630513<\/a><br><span class=\"quote\">&gt;my only real constraint was the mitx case.<\/span><br><span class=\"quote\">&gt;about to suggest Ryzen<\/span><br><span class=\"quote\">&gt;Notice mITX<\/span><br>seems fine aside from that.<br>I would wait a bit though Computex is in a few days so there MAY be some actually decent mITX Ryzen board releases.",
+      "time": 1496000418,
+      "resto": 60628128
+    },
+    {
+      "no": 60630581,
+      "now": "05\/28\/17(Sun)15:41:36",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60630503\" class=\"quotelink\">&gt;&gt;60630503<\/a><br>If you&#039;re doing gaming or even gaming with a little video rendering on the side but nothing crazy there&#039;s not really any point in getting ryzen 7. you can easily bump up to a 1070 with the money you&#039;d save from switching to a 1600",
+      "time": 1496000496,
+      "resto": 60628128
+    },
+    {
+      "no": 60630582,
+      "now": "05\/28\/17(Sun)15:41:36",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60630503\" class=\"quotelink\">&gt;&gt;60630503<\/a><br>That&#039;s a very expensive case, why did you pick it?<br>Looks good",
+      "time": 1496000496,
+      "resto": 60628128
+    },
+    {
+      "no": 60630594,
+      "now": "05\/28\/17(Sun)15:42:05",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60629670\" class=\"quotelink\">&gt;&gt;60629670<\/a><br>https:\/\/pcpartpicker.com\/list\/syBQv<wbr>V<br>here a better build",
+      "time": 1496000525,
+      "resto": 60628128
+    },
+    {
+      "no": 60630607,
+      "now": "05\/28\/17(Sun)15:42:55",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60630503\" class=\"quotelink\">&gt;&gt;60630503<\/a><br><span class=\"quote\">&gt;https:\/\/ca.pcpartpicker.com\/list\/L<wbr>dr9Yr<\/span><br><br>The parts look fine but you should probably pay $85 more and get a Zotac 1070 mini.<br><br>You could save ~$40 dollars by getting a 250GB SSD from WD\/Sandisk etc.",
+      "time": 1496000575,
+      "resto": 60628128
+    },
+    {
+      "no": 60630614,
+      "now": "05\/28\/17(Sun)15:43:12",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60630545\" class=\"quotelink\">&gt;&gt;60630545<\/a><br>the 7500 comes with a cooler and since it&#039;s not overclockable you can get away with just running the stock cooler instead of the 212 evo. use that $20 and the saving you can make from getting a bronze power supply to upgrade to something like a gtx 1060 or rx 580. <br><br>also i&#039;d swap the 2x4gb for a 1x8gb so you can upgrade to 16gb in the future as that mobo only has 2 ram slots.",
+      "time": 1496000592,
+      "resto": 60628128
+    },
+    {
+      "no": 60630615,
+      "now": "05\/28\/17(Sun)15:43:20",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60630503\" class=\"quotelink\">&gt;&gt;60630503<\/a><br>NVMe is still basically useless.<br>You might as well spend a little more and get a  500GB sata",
+      "time": 1496000600,
+      "resto": 60628128
+    },
+    {
+      "no": 60630619,
+      "now": "05\/28\/17(Sun)15:43:35",
+      "name": "Anonymous",
+      "com": "<a href=\"#p60630321\" class=\"quotelink\">&gt;&gt;60630321<\/a>",
+      "filename": "1454039405929",
+      "ext": ".png",
+      "w": 808,
+      "h": 805,
+      "tn_w": 125,
+      "tn_h": 124,
+      "tim": 1496000615014,
+      "time": 1496000615,
+      "md5": "qSYxydBvTZmVkYJaklfkmg==",
+      "fsize": 50193,
+      "resto": 60628128
+    },
+    {
+      "no": 60630637,
+      "now": "05\/28\/17(Sun)15:45:02",
+      "name": "Anonymous",
+      "com": "So, need knowledge.<br><br>Does a 2.5&quot; drive cause less vibrations, and less torque, and less sound, than a 3.5&quot; hdd?<br>I do believe I&#039;ll be able to fit a 3.5&quot; hdd, but I really don&#039;t want it to create any noise, or extra vibrations, so I&#039;m leaning towards 2.5&quot; hdd. Also, a 2.5&quot; drive is much lighter, so it decreases the chance of it slipping off it&#039;s tape adhesive and hit other components, when moving the case.<br><br>At the moment there&#039;s a sale on, so I need to make my decision quickly.",
+      "time": 1496000702,
+      "resto": 60628128
+    },
+    {
+      "no": 60630639,
+      "now": "05\/28\/17(Sun)15:45:11",
+      "name": "Anonymous",
+      "com": "Any small cases out there with swappable HDD where I don&#039;t have to open up the computer?",
+      "filename": "2637649-l-b",
+      "ext": ".jpg",
+      "w": 700,
+      "h": 700,
+      "tn_w": 125,
+      "tn_h": 125,
+      "tim": 1496000711044,
+      "time": 1496000711,
+      "md5": "JQKtcTsyY+3HWrgjVtc2Cw==",
+      "fsize": 34611,
+      "resto": 60628128
+    }
+  ]
+}
+

@@ -16,3 +16,33 @@ link
 	word1
 	word2
 	count
+
+
+//format of $threads (i think): [page][thread]
+    	/*
+			example:
+			[
+			  {
+			    "no": 51971506,
+			    "sticky": 1,
+			    "closed": 1,
+			    "now": "12\/20\/15(Sun)20:03:52",
+			    "name": "Anonymous",
+			    "com": "The \/g\/ Wiki:....",
+			    "filename": "RMS",
+			    "ext": ".png",
+			    "w": 450,
+			    "h": 399,
+			    "tn_w": 250,
+			    "tn_h": 221,
+			    "tim": 1450659832892,
+			    "time": 1450659832,
+			    "md5": "cEeDnXfLWSsu3+A\/HIZkuw==",
+			    "fsize": 299699,
+			    "resto": 0,
+			    "capcode": "mod",
+			    "semantic_url": "the-g-wiki",
+			    "replies": 0,
+			    "images": 0,
+			    "last_modified": 1450659844
+			  }, ...
