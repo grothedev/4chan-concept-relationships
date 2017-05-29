@@ -24,8 +24,22 @@ class HomeController extends Controller
 
     	if (is_numeric($thread)){ //analyzing single thread
     		$posts = $this->getPosts($board, $thread);
-    		
-    		$counts = array();
+
+    	} else if (ctype_alpha($board)){ //analyzing board
+    		$posts = $this->getPosts($board);
+
+    	} else if ($board == '*') { //analyzing whole site
+    		echo 'site. under construction';
+    	} else {
+    		echo 'You entered ' . $board . ', which i don\'t know what to do with. <a href = "feedback">Is this an error?</a>';
+    	}
+
+    	$counts = $this->getCounts($posts);
+
+    }
+    
+    private function getCounts($posts){
+    	$counts = array();
 
     		for ($i = 0; $i < sizeof($posts); $i++){
     			echo 'comment ' . $i . ':<br>';
@@ -35,24 +49,41 @@ class HomeController extends Controller
 
     			//removing unnecessary words and >
     			$removedWords = ['a', 'the'];
-    			for ($j = 0; $j < sizeof($words); $j++){
-    				if (strpos($words[$j], '>>')){
+    			var_dump($words);
+    			for ($j = 0; $j < sizeof($words); $j++){ 
+
+    				filter_var($words[$j], FILTER_SANITIZE_STRING);
+    				$words[$j] = strip_tags($words[$j]);
+
+
+    				//TODO something is going wrong here; it's not removing the class="quotelink" string
+    				if (strpos($words[$j], 'class=') !== FALSE || strpos($words[$j], 'href') !== FALSE){
+    					echo '- ' . $words[$j]  .'<br>';
+    					unset($words[$j]);
+    					continue;
+    				} else echo 'keep ' . $words[$j] . '<br>';
+    				if (strpos($words[$j], '>>') !== FALSE || strpos($words[$j], '<') !== FALSE){
     					unset($words[$j]);
     					continue;
     				}
     				if (strpos($words[$j], '>')){
     					$words[$j] = substr($words[$j], 1);
-    					continue;
     				}
     				if (in_array($words[$j], $removedWords)){
     					unset($words[$j]);
     					continue;
     				}
+
+    				//dealing with punctuation, case, special char, all that shit
+    				
+    				
+    				$words[$j] = strtolower($words[$j]);
+    				$words[$j] = preg_replace('/[^a-z0-9]+/i', '', $words[$j]);
     			}
-    			array_values($words);
-    			
+    			$words = array_values($words);
     			//generating counts
     			for ($j = 0; $j < sizeof($words); $j++){
+    				echo htmlspecialchars($words[$j]) . '<br>';
     				if (array_key_exists($words[$j], $counts)){
     					$counts[$words[$j]]++;
     				} else {
@@ -63,17 +94,7 @@ class HomeController extends Controller
     			var_dump($counts);
 
     		}	
-
-    	} else if (ctype_alpha($board)){ //analyzing board
-    		echo 'board. under construction';
-    	} else if ($board == '*') { //analyzing whole site
-    		echo 'site. under construction';
-    	} else {
-    		echo 'You entered ' . $board . ', which i don\'t know what to do with. <a href = "feedback">Is this an error?</a>';
-    	}
-
     }
-    
 
     //this function takes the board and thread, and
     //returns an array of the text of all posts(OPs and comments)
@@ -87,17 +108,31 @@ class HomeController extends Controller
     			$bodyString = $result->getBody()->getContents();
     			$postsObj = json_decode($bodyString);
     			$postsArray = $postsObj->posts;
-    			$comArray = Array();
     			for ($i = 0; $i < sizeof($postsArray); $i++){
     				if (property_exists($postsArray[$i]	, 'com')){
-    					array_push($comArray, $postsArray[$i]->com);
+    					array_push($posts, $postsArray[$i]->com);
     				}
     			}
-    			return $comArray;
+    			return $posts;
     	} else if (ctype_alpha($board)){
+
+    		$threadIds = array();
+
+    		
 			for ($i = 1; $i < 11; $i++){
-				
+				$result = $client->get($board . '/' . $i . '.json');
+				$bodyString = $result->getBody()->getContents();
+				$obj = json_decode($bodyString);
+				for ($j = 0; $j < sizeof($obj->threads); $j++){ //get all thread ids from all pages
+					array_push($threadIds, $obj->threads[$j]->posts[0]->no);
+				}
 			}
+			for ($i = 0; $i < sizeof($threadIds); $i++){
+				array_push($posts, $this->getPosts($board, $threadIds[$i]));
+				sleep(1); //api rules: no more than one request per second
+				var_dump($posts[sizeof($posts) - 1]);
+			}
+			return $posts;
 		}
 
 		return;

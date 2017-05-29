@@ -4,6 +4,8 @@ board/pagenumber.json
 some of the replies for each thread are included. this example is for page 1
 
 
+each element of the 'threads' array is an object with property 'posts', which is an array of objs to represent posts and a few replies
+
 {
   "threads": [
     {
