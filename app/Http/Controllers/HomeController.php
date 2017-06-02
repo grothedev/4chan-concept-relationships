@@ -35,7 +35,13 @@ class HomeController extends Controller
     	}
 
     	$counts = $this->getCounts($posts);
+        $words = array_keys($counts);
 
+        foreach ($counts as $word => $c){
+            echo $word . ': ' . $c . '<br>';
+            //echo $word . '<br>';
+        }
+        echo '[end]';
     }
     
     private function getCounts($posts){
@@ -43,7 +49,9 @@ class HomeController extends Controller
 
     		for ($i = 0; $i < sizeof($posts); $i++){
     			echo 'comment ' . $i . ':<br>';
-    			echo $posts[$i] . '<br><br>';
+
+                //replace line break tags
+                $posts[$i] = str_replace('<br>', ' ', $posts[$i]);
 
     			$words = explode(' ', $posts[$i]);
 
@@ -55,14 +63,10 @@ class HomeController extends Controller
     				filter_var($words[$j], FILTER_SANITIZE_STRING);
     				$words[$j] = strip_tags($words[$j]);
 
-
-    				//TODO something is going wrong here; it's not removing the class="quotelink" string
-    				if (strpos($words[$j], 'class=') !== FALSE || strpos($words[$j], 'href') !== FALSE){
-    					echo '- ' . $words[$j]  .'<br>';
+    				if (strpos($words[$j], 'class') !== FALSE || strpos($words[$j], 'href') !== FALSE){
     					unset($words[$j]);
     					continue;
-    				} else echo 'keep ' . $words[$j] . '<br>';
-    				if (strpos($words[$j], '>>') !== FALSE || strpos($words[$j], '<') !== FALSE){
+    				} else if (strpos($words[$j], '>>') !== FALSE || strpos($words[$j], '<') !== FALSE){
     					unset($words[$j]);
     					continue;
     				}
@@ -74,12 +78,17 @@ class HomeController extends Controller
     					continue;
     				}
 
-    				//dealing with punctuation, case, special char, all that shit
-    				
-    				
+
+    				//dealing with punctuation, case, special char, all that shit    				
     				$words[$j] = strtolower($words[$j]);
-    				$words[$j] = preg_replace('/[^a-z0-9]+/i', '', $words[$j]);
-    			}
+                    if (strpos($words[$j], urlencode("http://")) === FALSE || strpos($words[$j], urlencode('https://')) == FALSE){
+    				    $words[$j] = preg_replace('/[^a-z0-9]+/i', '', $words[$j]);
+    			     } else {
+                        echo $words[$j] . ' is a url';
+                     }
+
+                     echo '<br>';
+                }
     			$words = array_values($words);
     			//generating counts
     			for ($j = 0; $j < sizeof($words); $j++){
@@ -91,9 +100,10 @@ class HomeController extends Controller
     				}
     			}
 
-    			var_dump($counts);
-
+    			//var_dump($counts);
+                
     		}	
+            return $counts;
     }
 
     //this function takes the board and thread, and
